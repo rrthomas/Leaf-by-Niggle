@@ -1,5 +1,11 @@
-((latex-mode . ((eval . (add-hook 'after-save-hook
-                                  (lambda () (progn
-                                               (TeX-command-menu "LatexMk")
-                                               (copy-file "Leaf by Niggle.pdf" "~/Dropbox/Niggle/Leaf by Niggle.pdf" t)))
-                                  nil t)))))
+((latex-mode .
+             ((eval .
+                    (add-hook 'after-save-hook
+                              (lambda ()
+                                ;; Save buffer-file-name's value, as buffer is changed by TeX-command-menu
+                                (let ((file (buffer-file-name)))
+                                  (progn
+                                    (start-process "latexmk" nil "latexmk")
+                                    (copy-file "book.pdf" "~/Dropbox/Niggle/" t t)
+                                    (copy-file "score.pdf" "~/Dropbox/Niggle/" t t))))
+                              nil t)))))

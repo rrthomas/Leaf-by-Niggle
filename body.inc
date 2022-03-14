@@ -1,37 +1,4 @@
-%
-% Typeset by Reuben Thomas 24th February 2022
-%
-
-
-\documentclass[english]{scrartcl}
-\usepackage{newpxtext,url,microtype}
-\usepackage[british]{babel}
-\usepackage{gitinfo2}
-\usepackage[utf8x]{inputenc}
-
-
-
-% Alter some default parameters for general typesetting
-
-\frenchspacing
-
-% Avoid widows and orphans
-% https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
-\widowpenalty 10000
-\clubpenalty 10000
-
-
-% New commands
-
-
-
-\begin{document}
-
-\title{Leaf by Niggle}
-\author{J.R.R. Tolkien}
-\date{Git commit \gitFirstTagDescribe}
-\maketitle
-
+% -*- mode: latex -*-
 \section*{Industrial}
 
 There was once a little man called Niggle, who had a long journey to make. He did not want to go, indeed the whole idea was distasteful to him; but he could not get out of it. He knew he would have to start some time, but he did not hurry with his preparations.
@@ -335,5 +302,3 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 “The Porter settled that some time ago,” said the Second Voice. “Train for Niggle’s Parish in the bay: he has shouted that for a long while now. Niggle’s Parish. I sent a message to both of them to tell them.” “What did they say?”
 
 “They both laughed. Laughed—the Mountains rang with it!”
-
-\end{document}
