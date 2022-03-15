@@ -4,12 +4,12 @@
 There was once a little man called Niggle, who had a long journey to make. He did not want to go, indeed the whole idea was distasteful to him; but he could not get out of it. He knew he would have to start some time, but he did not hurry with his preparations.
 
 \begin{itemize}
-\item Niggle was a painter.
-\item Not a very successful one, partly because he had many other things to do. Most of these things he thought were a nuisance; but he did them fairly well, when he could not get out of them: which (in his opinion) was far too often. The laws in his country were rather strict.
-\item There were other hindrances, too. For one thing, he was sometimes just idle, and did nothing at all.
-\item For another, he was kind-hearted, in a way. You know the sort of kind heart: it made him uncomfortable more often than it made him do anything; and even when he did anything, it did not prevent him from grumbling, losing his temper, and swearing (mostly to himself).
-\item All the same, it did land him in a good many odd jobs for his neighbour, Mr. Parish, a man with a lame leg. Occasionally he even helped other people from further off, if they came and asked him to.
-\item Also, now and again, he remembered his journey, and began to pack a few things in an ineffectual way: at such times he did not paint very much.
+\itemspecial Niggle was a painter.
+ \item Not a very successful one,' partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
+\itemii There were other hindrances, too.| For one thing,' he was sometimes just idle, and did| nothing at all.‖ For another,| he was' kind-|heart'ed,|| in a way.
+\item You know the sort of kind heart:| it made him uncomfortable more often than it made' him| do anything;‖ and even when he did anything,| it did not prevent him from' grumbling,| losing his temper,' and swearing| (mostly to himself).
+\itemii All the same, it did land him in a good many| odd' jobs| for his neighbour, Mr. Parish, a man with a lame leg.‖ Occasionally he even helped other people from further off,| if they' came and| asked' him| to.
+\itemii Also,| now and again,' he remembered his journey,| and began to pack a few things in an' ineffectual way:| at such times he did not paint very much.
 \end{itemize}
 
 He had a number of pictures on hand; most of them were too large and ambitious for his skill. He was the sort of painter who can paint leaves better than trees. He used to spend a long time on a single leaf, trying to catch its shape, and its sheen, and the glistening of dewdrops on its edges. Yet he wanted to paint a whole tree, with all of its leaves in the same style, and all of them different.

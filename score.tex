@@ -2,17 +2,15 @@
 % Typeset by Reuben Thomas 24th February 2022
 %
 
-
 \documentclass{scrartcl}
-\usepackage{newpxtext,url,microtype}
+\usepackage{fontspec,url,microtype}
 \usepackage[british]{babel}
 \usepackage{gitinfo2,xparse}
-\usepackage[utf8x]{inputenc}
-
 
 
 % Alter some default parameters for general typesetting
 
+\setmainfont{TeX Gyre Pagella}
 \frenchspacing
 
 % Avoid widows and orphans
@@ -22,6 +20,14 @@
 
 
 % New commands
+\catcode`'=\active
+\def'{\textbf{~\textquotesingle}}
+\catcode`|=\active
+\def|{\textbf{~\textbar}}
+\catcode`‖=\active
+\def‖{\textbf{~\textbar\textbar}}
+\newcommand{\itemii}{\item[$\circ$]}
+\newcommand{\itemspecial}{\item[\textbf{!}]}
 
 
 \begin{document}

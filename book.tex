@@ -2,18 +2,15 @@
 % Typeset by Reuben Thomas 24th February 2022
 %
 
-
 \documentclass{book}
 \usepackage[papersize={120mm,180mm}]{geometry}
-\usepackage{newpxtext,url,microtype}
+\usepackage{fontspec,url,microtype}
 \usepackage[british]{babel}
 \usepackage{gitinfo2,xparse}
-\usepackage[utf8x]{inputenc}
-
-
 
 % Alter some default parameters for general typesetting
 
+\setmainfont{TeX Gyre Pagella}
 \frenchspacing
 
 % Avoid widows and orphans
@@ -23,6 +20,12 @@
 
 
 % New commands
+\catcode`'=\active
+\def'{\relax}
+\catcode`|=\active
+\def|{\relax}
+\catcode`‖=\active
+\def‖{\relax}
 
 
 \begin{document}
@@ -34,6 +37,8 @@
 
 \renewenvironment{itemize}{}{}
 \renewcommand{\item}{}
+\newcommand{\itemii}{}
+\newcommand{\itemspecial}{}
 \RenewDocumentCommand \section {s m}{}
 \RenewDocumentCommand \subsection {s m}{}
 
