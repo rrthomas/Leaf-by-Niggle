@@ -5,8 +5,8 @@ There was once a little man called Niggle, who had a long journey to make. He di
 
 \begin{itemize}
 \itemspecial Niggle was a painter.
- \item Not a very successful one,' partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
-\itemii There were other hindrances, too.| For one thing,' he was sometimes just idle, and did| nothing at all.‖ For another,| he was' kind-|heart'ed,|| in a way.
+ \item Not a very successful one,| partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
+\itemii There were other hindrances, too.| For one thing,' he was sometimes just idle, and did| nothing at all.‖ For another,| he was' kind-|heart'ed,| in a way.
 \item You know the sort of kind heart:| it made him uncomfortable more often than it made' him| do anything;‖ and even when he did anything,| it did not prevent him from' grumbling,| losing his temper,' and swearing| (mostly to himself).
 \itemii All the same, it did land him in a good many| odd' jobs| for his neighbour, Mr. Parish, a man with a lame leg.‖ Occasionally he even helped other people from further off,| if they' came and| asked' him| to.
 \itemii Also,| now and again,' he remembered his journey,| and began to pack a few things in an' ineffectual way:| at such times he did not paint very much.
