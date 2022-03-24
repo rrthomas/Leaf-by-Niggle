@@ -3,6 +3,8 @@
 
 There was once a little man called Niggle, who had a long journey to make. He did not want to go, indeed the whole idea was distasteful to him; but he could not get out of it. He knew he would have to start some time, but he did not hurry with his preparations.
 
+\chant{Leaf chant Industrial.pdf}
+
 \begin{itemize}
 \itemspecial Niggle was a painter.
  \item Not a very successful one,| partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
@@ -114,6 +116,8 @@ Niggle got out in a hurry, and found that he had left his little bag behind. He 
 
 Niggle felt very ill, and fainted on the platform. They put him in an ambulance and took him to the Workhouse Infirmary.
 
+\chant{Leaf chant Purgatorial.pdf}
+
 \begin{itemize}
 \item He did not like the treatment at all. The medicine they gave him was bitter. The officials and attendants were unfriendly, silent, and strict; and he never saw anyone else, except a very severe doctor, who visited him occasionally. It was more like being in a prison than in a hospital.
 \item He had to work hard, at stated hours: at digging, carpentry, and painting bare boards all one plain colour. He was never allowed outside, and the windows all looked inwards. They kept him in the dark for hours at a stretch, “to do some thinking,” they said. He lost count of time.
@@ -131,34 +135,67 @@ Then suddenly they changed all his hours; they hardly let him go to bed at all; 
 \subsection*{The Voices}
 
 Niggle was lying in the dark, resting completely; so that, as he had not been either feeling or thinking at all, he might have been lying there for hours or for years, as far as he could tell. But now he heard Voices: not voices that he had ever heard before. There seemed to be a Medical Board, or perhaps a Court of Inquiry, going on close at hand, in an adjoining room with the door open, possibly, though he could not see any light.
+\pagebreak
 
-“Now the Niggle case,” said a Voice, a severe voice, more severe than the doctor’s.
+\chant{Leaf chant Voices.pdf}
 
-“What was the matter with him?” said a Second Voice, a voice that you might have called gentle, though it was not soft-it was a voice of authority, and sounded at once hopeful and sad. “What was the matter with Niggle? His heart was in the right place.”
+\begin{itemize}
+\item “Now the Niggle case,” said a Voice, a severe voice, more severe than the doctor’s.
+\end{itemize}
 
-“Yes, but it did not function properly,” said the First Voice. “And his head was not screwed on tight enough: he hardly ever thought at all. Look at the time he wasted, not even amusing himself! He never got ready for his journey. He was moderately well-off, and yet he arrived here almost destitute, and had to be put in the paupers’ wing. A bad case, I am afraid. I think he should stay some time yet.”
+\begin{itemize}
+\itemii “What was the matter with him?” said a Second Voice, a voice that you might have called gentle, though it was not soft-it was a voice of authority, and sounded at once hopeful and sad. “What was the matter with Niggle? His heart was in the right place.”
+\end{itemize}
 
-“It would not do him any harm, perhaps,” said the Second Voice. “But, of course, he is only a little man. He was never meant to be anything very much; and he was never very strong. Let us look at the Records. Yes. There are some favourable points, you know.”
+\begin{itemize}
+\item “Yes, but it did not function properly,” said the First Voice. “And his head was not screwed on tight enough: he hardly ever thought at all. Look at the time he wasted, not even amusing himself! He never got ready for his journey. He was moderately well-off, and yet he arrived here almost destitute, and had to be put in the paupers’ wing. A bad case, I am afraid. I think he should stay some time yet.”
+\end{itemize}
 
-“Perhaps,” said the First Voice; “but very few that will really bear examination.”
+\begin{itemize}
+\itemii “It would not do him any harm, perhaps,” said the Second Voice. “But, of course, he is only a little man. He was never meant to be anything very much; and he was never very strong. Let us look at the Records. Yes. There are some favourable points, you know.”
+\end{itemize}
 
-“Well,” said the Second Voice, “there are these. He was a painter by nature. In a minor way, of course; still, a Leaf by Niggle has a charm of its own. He took a great deal of pains with leaves, just for their own sake. But he never thought that that made him important. There is no note in the Records of his pretending, even to himself, that it excused his neglect of things ordered by the law.”
+\begin{itemize}
+\item “Perhaps,” said the First Voice; “but very few that will really bear examination.”
+\end{itemize}
 
-“Then he should not have neglected so many,” said the First Voice.
+\begin{itemize}
+\itemii “Well,” said the Second Voice, “there are these. He was a painter by nature. In a minor way, of course; still, a Leaf by Niggle has a charm of its own. He took a great deal of pains with leaves, just for their own sake. But he never thought that that made him important. There is no note in the Records of his pretending, even to himself, that it excused his neglect of things ordered by the law.”
+\end{itemize}
 
-“All the same, he did answer a good many Calls.”
+\begin{itemize}
+\item “Then he should not have neglected so many,” said the First Voice.
+\end{itemize}
 
-“A small percentage, mostly of the easier sort, and he called those Interruptions. The Records are full of the word, together with a lot of complaints and silly imprecations.”
+\begin{itemize}
+\itemii “All the same, he did answer a good many Calls.”
+\end{itemize}
 
-“True; but they looked like interruptions to him, of course, poor little man. And there is this: he never expected any Return, as so many of his sort call it. There is the Parish case, the one that came in later. He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all. But there is no note in the Records that Niggle expected Parish’s gratitude; he does not seem to have thought about it.”
+\begin{itemize}
+\item “A small percentage, mostly of the easier sort, and he called those Interruptions. The Records are full of the word, together with a lot of complaints and silly imprecations.”
+\end{itemize}
 
-“Yes, that is a point;” said the First Voice; “but rather small. I think you will find Niggle often merely forgot. Things he had to do for Parish he put out of his mind as a nuisance he had done with.”
+\begin{itemize}
+\itemii “True; but they looked like interruptions to him, of course, poor little man. And there is this: he never expected any Return, as so many of his sort call it. There is the Parish case, the one that came in later. He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all. But there is no note in the Records that Niggle expected Parish’s gratitude; he does not seem to have thought about it.”
+\end{itemize}
 
-“Still, there is this last report,” said the. Second Voice, “that wet bicycle-ride. I rather lay stress on that. It seems plain that this. was a. genuine sacrifice: Niggle guessed that he was throwing away his last chance with his picture, and he guessed; too, that Parish was worrying unnecessarily.”
+\chant{Leaf chant Voices.pdf}
 
-“I think you put it too strongly,” said the First Voice. “But you have the last word. It is your task, of course, to put the best interpretation on the facts. Sometimes they will bear it. What do you propose?”
+\begin{itemize}
+\item “Yes, that is a point;” said the First Voice; “but rather small. I think you will find Niggle often merely forgot. Things he had to do for Parish he put out of his mind as a nuisance he had done with.”
+\end{itemize}
 
-“I think it is a case for a little gentle treatment now,” said the Second Voice.
+\begin{itemize}
+\itemii “Still, there is this last report,” said the. Second Voice, “that wet bicycle-ride. I rather lay stress on that. It seems plain that this. was a. genuine sacrifice: Niggle guessed that he was throwing away his last chance with his picture, and he guessed; too, that Parish was worrying unnecessarily.”
+\end{itemize}
+
+\begin{itemize}
+\item “I think you put it too strongly,” said the First Voice. “But you have the last word. It is your task, of course, to put the best interpretation on the facts. Sometimes they will bear it. What do you propose?”
+\end{itemize}
+
+\begin{itemize}
+\itemii “I think it is a case for a little gentle treatment now,” said the Second Voice.
+\end{itemize}
 
 Niggle thought that he had never heard anything so generous as that Voice. It made Gentle Treatment sound like a load of rich gifts, and the summons to a King’s feast. Then suddenly Niggle felt ashamed. To hear that he was considered a case for Gentle Treatment overwhelmed him, and made him blush in the dark. It was like being publicly praised; when you and all the audience knew that the praise was not deserved. Niggle hid his blushes in the rough blanket.
 
@@ -195,6 +232,8 @@ The train moved off at once. Niggle lay back in his seat. The little engine puff
 \section*{Pastoral}
 
 Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in the spring sunshine. Before long he found that the path on which he had started had disappeared, and the bicycle was rolling along over a marvellous turf. It was green and close; and yet he could see every blade distinctly. He seemed to remember having seen or dreamed of that sweep of grass somewhere or other. The curves of the land were familiar somehow. Yes: the ground was becoming level, as it should, and now, of course, it was beginning to rise again. A great green shadow came between him and the sun. Niggle looked up, and fell off his bicycle.
+
+\chant{Leaf chant Pastoral.pdf}
 
 \begin{itemize}
 \item Before him stood the Tree, his Tree, finished. If you could say that of a Tree that was alive, its leaves opening, its branches growing and bending in the wind that Niggle had so often felt or guessed, and had so often failed to catch. He gazed at the Tree, and slowly he lifted his arms and opened them wide.

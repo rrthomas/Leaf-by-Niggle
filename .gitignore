@@ -1,5 +1,8 @@
 LeafByNiggle*
 Leaf\ by\ Niggle.mp3
+.mscbackup
+book.pdf
+score.pdf
 *~
 *.acn
 *.acr
@@ -21,12 +24,12 @@ Leaf\ by\ Niggle.mp3
 *.log
 *.lot
 *.maf
+*.mscz
 *.mtc
 *.mtc0
 *.nav
 *.nlo
 *.out
-*.pdf
 *.pdfsync
 *.ps
 *.snm
