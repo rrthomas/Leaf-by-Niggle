@@ -202,7 +202,7 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 
 \begin{itemize}
 \item “It’s a gift!” he said.
-\item He was referring to his art, and also to the result; but-he was using the word quite literally.
+\item He was referring to his art, and also to the result; but he was using the word quite literally.
 \end{itemize}
 
 He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style-were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
