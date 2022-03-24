@@ -119,9 +119,9 @@ Niggle felt very ill, and fainted on the platform. They put him in an ambulance 
 \chant{Leaf chant Purgatorial.pdf}
 
 \begin{itemize}
-\item He did not like the treatment at all. The medicine they gave him was bitter. The officials and attendants were unfriendly, silent, and strict; and he never saw anyone else, except a very severe doctor, who visited him occasionally. It was more like being in a prison than in a hospital.
-\item He had to work hard, at stated hours: at digging, carpentry, and painting bare boards all one plain colour. He was never allowed outside, and the windows all looked inwards. They kept him in the dark for hours at a stretch, “to do some thinking,” they said. He lost count of time.
-\item He did not even begin to feel better, not if that could be judged by whether he felt any pleasure in doing anything. He did not, not even in getting into bed.
+\item He did not like the treatment at all.| The medicine they' gave him| was bitter.‖ The officials and attendants were unfriendly, silent, and strict;| and he' never saw anyone else,| except a very severe doctor,' who visited him occasionally.| It was more like being in a prison than in a hospital.
+\itemii He had to work hard, at stated hours:| at digging,' carpentry,| and painting bare boards all one' plain colour.‖ He was never allowed outside, and the windows all looked inwards.| They kept him in the dark' for hours at a stretch, |“to do some thinking,”' they said.| He lost count of time.
+\itemii He did not even begin to feel better,| not if that could be' judged by| whether he felt any pleasure in' doing anything.| He did not,||| not even in getting into bed.
 \end{itemize}
 
 At first, during the first century or so (I am merely giving his impressions), he used to worry aimlessly about the past. One thing he kept on repeating to himself, as he lay in the dark: “I wish I had called on Parish the first morning after the high winds began. I meant to. The first loose tiles would have been easy to fix. Then Mrs. Parish might never have caught cold. Then I should not have caught cold either. Then I should have had a week longer!” But in time he forgot what it was that he had wanted a week longer for. If he worried at all after that, it was about his jobs in the hospital. He planned them out, thinking how quickly he could stop that board creaking, or rehang that door, or mend that table-leg. Probably he really became rather useful, though no one ever told him so. But that, of course, cannot have been the reason why they kept the poor little man so long. They may have been waiting for him to get better, and judging “better” by some odd medical standard of their own.
@@ -130,71 +130,71 @@ At any rate, poor Niggle got no pleasure out of life, not what he had been used 
 
 Then suddenly they changed all his hours; they hardly let him go to bed at all; they took him off carpentry altogether and kept him at plain digging, day after day. He took it fairly well. It was a long while before he even began to grope in the back of his mind for the curses that he had practically forgotten. He went on digging, till his back seemed broken, his hands were raw, and he felt that he could not manage another spadeful. Nobody thanked him. But the doctor came and looked at him.
 
-“Knock off!” he said. “Complete rest-in the dark.”
+“Knock off!” he said. “Complete rest—in the dark.”
 
 \subsection*{The Voices}
 
 Niggle was lying in the dark, resting completely; so that, as he had not been either feeling or thinking at all, he might have been lying there for hours or for years, as far as he could tell. But now he heard Voices: not voices that he had ever heard before. There seemed to be a Medical Board, or perhaps a Court of Inquiry, going on close at hand, in an adjoining room with the door open, possibly, though he could not see any light.
-\pagebreak
+\scorepagebreak
 
 \chant{Leaf chant Voices.pdf}
 
 \begin{itemize}
-\item “Now the Niggle case,” said a Voice, a severe voice, more severe than the doctor’s.
+\item “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖|||
 \end{itemize}
 
 \begin{itemize}
-\itemii “What was the matter with him?” said a Second Voice, a voice that you might have called gentle, though it was not soft-it was a voice of authority, and sounded at once hopeful and sad. “What was the matter with Niggle? His heart was in the right place.”
+\itemii “What was the matter with him?”| said a Second Voice,' a voice that you might have called gentle,| though it was not soft—‖ it was a voice of authority,| and sounded at once' hopeful and sad.| “What was the matter with Niggle?' His heart' was in the| right place.”
 \end{itemize}
 
 \begin{itemize}
-\item “Yes, but it did not function properly,” said the First Voice. “And his head was not screwed on tight enough: he hardly ever thought at all. Look at the time he wasted, not even amusing himself! He never got ready for his journey. He was moderately well-off, and yet he arrived here almost destitute, and had to be put in the paupers’ wing. A bad case, I am afraid. I think he should stay some time yet.”
+\item “Yes, but it did not function properly,” said the First Voice.| “And his head was not screwed on tight enough:' he hardly ever thought at all.| Look at the time he wasted, not even amusing himself!‖ He never got ready for his journey.| He was moderately well-off,' and yet he arrived here almost destitute, and| had to be put in the paupers’ wing.' A bad case, I am afraid.| I think he should stay some time yet.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “It would not do him any harm, perhaps,” said the Second Voice. “But, of course, he is only a little man. He was never meant to be anything very much; and he was never very strong. Let us look at the Records. Yes. There are some favourable points, you know.”
+\itemii “It would not do him any harm, perhaps,” said the Second Voice.| “But, of course, he is only a little man.' He was never meant to be anything very much;| and he was never very strong.‖ Let us look at the Records.| Yes.' There are some| favourable' points,| you know.”
 \end{itemize}
 
 \begin{itemize}
-\item “Perhaps,” said the First Voice; “but very few that will really bear examination.”
+\item “Perhaps,” said the First Voice;| “but very few that will really bear'| examination.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “Well,” said the Second Voice, “there are these. He was a painter by nature. In a minor way, of course; still, a Leaf by Niggle has a charm of its own. He took a great deal of pains with leaves, just for their own sake. But he never thought that that made him important. There is no note in the Records of his pretending, even to himself, that it excused his neglect of things ordered by the law.”
+\itemii “Well,” said the Second Voice, “there are these.| He was a painter by nature.' In a minor way, of course;| still, a Leaf by Niggle has a charm of its own.‖ He took a great deal of pains with leaves, just for their own sake.| But he never thought that that made him' important.| There is no note in the Records of his pretending, even to himself,' that it excused his neglect of things| ordered by the law.”
 \end{itemize}
 
 \begin{itemize}
-\item “Then he should not have neglected so many,” said the First Voice.
+\item “Then he should not have| neglected so many,”'| said the First Voice.
 \end{itemize}
 
 \begin{itemize}
-\itemii “All the same, he did answer a good many Calls.”
+\itemii “All the same, he did answer a||| good many Calls.”
 \end{itemize}
 
 \begin{itemize}
-\item “A small percentage, mostly of the easier sort, and he called those Interruptions. The Records are full of the word, together with a lot of complaints and silly imprecations.”
+\item “A small percentage,| mostly of the' easier sort,| and he called those Interruptions.‖ The Records are full of the word,| together' with a| lot of' complaints and| silly imprecations.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “True; but they looked like interruptions to him, of course, poor little man. And there is this: he never expected any Return, as so many of his sort call it. There is the Parish case, the one that came in later. He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all. But there is no note in the Records that Niggle expected Parish’s gratitude; he does not seem to have thought about it.”
+\itemii “True;| but they looked like interruptions to him,' of course,| poor little man.‖ And there is this: he never expected any Return, as so many of his sort call it.| There is the Parish case, the one that came in later.' He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all.| But there is no note in the Records that Niggle expected Parish’s gratitude;' he does not seem to have| thought about it.”
 \end{itemize}
 
 \chant{Leaf chant Voices.pdf}
 
 \begin{itemize}
-\item “Yes, that is a point;” said the First Voice; “but rather small. I think you will find Niggle often merely forgot. Things he had to do for Parish he put out of his mind as a nuisance he had done with.”
+\item “Yes, that is a point;” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “Still, there is this last report,” said the. Second Voice, “that wet bicycle-ride. I rather lay stress on that. It seems plain that this. was a. genuine sacrifice: Niggle guessed that he was throwing away his last chance with his picture, and he guessed; too, that Parish was worrying unnecessarily.”
+\itemii “Still, there is this last report,” said the Second Voice,| “that' wet| bicycle-ride.‖ I rather lay stress on that.| It seems plain that this was a genuine' sacrifice:| Niggle guessed that he was throwing away his last chance with his picture,' and he guessed; too, that| Parish was worrying unnecessarily.”
 \end{itemize}
 
 \begin{itemize}
-\item “I think you put it too strongly,” said the First Voice. “But you have the last word. It is your task, of course, to put the best interpretation on the facts. Sometimes they will bear it. What do you propose?”
+\item “I think you put it too strongly,” said the First Voice.| “But you 'have the| last word.‖ It is your task, of| course,' to put the| best interpretation' on the facts. Sometimes they will bear it.| What do you propose?”
 \end{itemize}
 
 \begin{itemize}
-\itemii “I think it is a case for a little gentle treatment now,” said the Second Voice.
+\itemii ‖“I think it is a case for a little gentle treatment now,”||| said the Second Voice.
 \end{itemize}
 
 Niggle thought that he had never heard anything so generous as that Voice. It made Gentle Treatment sound like a load of rich gifts, and the summons to a King’s feast. Then suddenly Niggle felt ashamed. To hear that he was considered a case for Gentle Treatment overwhelmed him, and made him blush in the dark. It was like being publicly praised; when you and all the audience knew that the praise was not deserved. Niggle hid his blushes in the rough blanket.
@@ -236,12 +236,11 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 \chant{Leaf chant Pastoral.pdf}
 
 \begin{itemize}
-\item Before him stood the Tree, his Tree, finished. If you could say that of a Tree that was alive, its leaves opening, its branches growing and bending in the wind that Niggle had so often felt or guessed, and had so often failed to catch. He gazed at the Tree, and slowly he lifted his arms and opened them wide.
+\item Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
 \end{itemize}
 
 \begin{itemize}
-\item “It’s a gift!” he said.
-\item He was referring to his art, and also to the result; but he was using the word quite literally.
+\itemii “It’s a gift!”|| he said.‖ He was referring to his art,| and also to the result;' but he was using the| word' quite| literally.
 \end{itemize}
 
 He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style-were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
