@@ -140,11 +140,11 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \chant{Leaf chant Voices.pdf}
 
 \begin{itemize}
-\item “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖|||
+\item “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖
 \end{itemize}
 
 \begin{itemize}
-\itemii “What was the matter with him?”| said a Second Voice,' a voice that you might have called gentle,| though it was not soft—‖ it was a voice of authority,| and sounded at once' hopeful and sad.| “What was the matter with Niggle?' His heart' was in the| right place.”
+\itemii “What was the matter with him?”| said a Second Voice,' a voice that you might have called gentle,| though it was not soft—‖ it was a voice of authority,| and sounded at once' hopeful and sad.| “What was the matter with Niggle?' His heart was in the| right place.”
 \end{itemize}
 
 \begin{itemize}
@@ -152,11 +152,11 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \end{itemize}
 
 \begin{itemize}
-\itemii “It would not do him any harm, perhaps,” said the Second Voice.| “But, of course, he is only a little man.' He was never meant to be anything very much;| and he was never very strong.‖ Let us look at the Records.| Yes.' There are some| favourable' points,| you know.”
+\itemii “It would not do him any harm, perhaps,” said the Second Voice.| “But, of course, he is only a little man.' He was never meant to be anything very much;| and he was never very strong.‖ Let us look at the Records.| Yes.' There are some favourable points,|| you know.”
 \end{itemize}
 
 \begin{itemize}
-\item “Perhaps,” said the First Voice;| “but very few that will really bear'| examination.”
+\item “Perhaps,” said the First Voice;| “but very few that will really bear'| examination.”‖
 \end{itemize}
 
 \begin{itemize}
@@ -164,11 +164,11 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \end{itemize}
 
 \begin{itemize}
-\item “Then he should not have| neglected so many,”'| said the First Voice.
+\item “Then he should not have| neglected so many,”'| said the First Voice.‖
 \end{itemize}
 
 \begin{itemize}
-\itemii “All the same, he did answer a||| good many Calls.”
+\itemii ‖ “All the same, he did answer a||| good many Calls.”
 \end{itemize}
 
 \begin{itemize}
