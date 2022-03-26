@@ -213,7 +213,7 @@ There was another silence. Niggle heard the Voices receding. “Well, I agree,�
 
 \section*{Transition from Purgatorial to Pastoral}
 
-Niggle woke up to find that his blinds were drawn, and his little cell was full of sunshine. He got up, and found that some comfortable clothes had been put out for him, not hospital uniform. After breakfast the doc- tor treated his sore hands, putting some salve on them that healed them at once. He gave Niggle some good advice, and a bottle of tonic (in case he needed it). In the middle of the morning they gave Niggle a biscuit and a glass of wine; and then they gave him a ticket.
+Niggle woke up to find that his blinds were drawn, and his little cell was full of sunshine. He got up, and found that some comfortable clothes had been put out for him, not hospital uniform. After breakfast the doctor treated his sore hands, putting some salve on them that healed them at once. He gave Niggle some good advice, and a bottle of tonic (in case he needed it). In the middle of the morning they gave Niggle a biscuit and a glass of wine; and then they gave him a ticket.
 
 “You can go to the railway station now,” said the doctor. “The Porter will look after you. Good-bye.”
 
