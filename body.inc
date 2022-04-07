@@ -16,7 +16,14 @@ There was once a little man called Niggle, who had a long journey to make. He di
 
 He had a number of pictures on hand; most of them were too large and ambitious for his skill. He was the sort of painter who can paint leaves better than trees. He used to spend a long time on a single leaf, trying to catch its shape, and its sheen, and the glistening of dewdrops on its edges. Yet he wanted to paint a whole tree, with all of its leaves in the same style, and all of them different.
 
-There was one picture in particular which bothered him. It had begun with a leaf caught in the wind, and it became a tree; and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots. Strange birds came and settled on the twigs and had to be attended to. Then all round the Tree, and behind it, through the gaps in the leaves and boughs, a country began to open out; and there were glimpses of a forest marching over the land, and of mountains tipped with snow. Niggle lost interest in his other pictures; or else he took them and tacked them on to the edges of his great picture. Soon the canvas became so large that he had to get a ladder; and he ran up and down it, putting in a touch here, and rubbing out a patch there. When people came to call, he seemed polite enough, though he fiddled a little with the pencils on his desk. He listened to what they said, but underneath he was thinking all the time about his big canvas, in the tall shed that had been built for it out in his garden (on a plot where once he had grown potatoes) .
+\chant{Leaf chant Industrial.pdf}
+
+\begin{itemize}
+\item There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.
+\itemii Strange birds came and settled on the twigs and had to be attended to.| Then all round the Tree,' and behind it,| through the gaps in the leaves and boughs,‖ a country began to open out;| and there were glimpses of a forest' marching over the land,|| and of mountains tipped with snow.
+\item Niggle lost interest in his other pictures;| or else he took them and' tacked them on to the edges of his| great picture.‖ Soon the canvas became so large that he had to get a ladder;| and he ran up and down it,' putting in a touch here,|| and rubbing out a patch there.
+\itemii When people came to call he seemed polite enough,| though he fiddled a little' with the pencils on his| desk.‖ He listened to what they said,| but underneath he was' thinking all the time about his big canvas,| in the tall shed that had been built for it' out in his garden| (on a plot where once he had grown potatoes) .
+\end{itemize}
 
 He could not get rid of his kind heart. “I wish I was more strong-minded!” he sometimes said to himself, meaning that he wished other people’s troubles did not make him feel uncomfortable. But for a long time he was not seriously perturbed. “At any rate, I shall get this one picture done, my real picture, before I have to go on that wretched journey,” he used to say. Yet he was beginning to see that he could not put off his start indefinitely. The picture would have to stop just growing and get finished.
 
@@ -126,16 +133,27 @@ Niggle felt very ill, and fainted on the platform. They put him in an ambulance 
 
 At first, during the first century or so (I am merely giving his impressions), he used to worry aimlessly about the past. One thing he kept on repeating to himself, as he lay in the dark: “I wish I had called on Parish the first morning after the high winds began. I meant to. The first loose tiles would have been easy to fix. Then Mrs. Parish might never have caught cold. Then I should not have caught cold either. Then I should have had a week longer!” But in time he forgot what it was that he had wanted a week longer for. If he worried at all after that, it was about his jobs in the hospital. He planned them out, thinking how quickly he could stop that board creaking, or rehang that door, or mend that table-leg. Probably he really became rather useful, though no one ever told him so. But that, of course, cannot have been the reason why they kept the poor little man so long. They may have been waiting for him to get better, and judging “better” by some odd medical standard of their own.
 
-At any rate, poor Niggle got no pleasure out of life, not what he had been used to call pleasure. He was certainly not amused. But it could not be denied that he began to have a feeling of-well, satisfaction: bread rather than jam. He could take up a task the moment one bell rang, and lay it aside promptly the moment the next one went, all tidy and ready to be continued at the right time. He got through quite a lot in a day, now; he finished small things off neatly. He had no “time of his own” (except alone in his bed-cell), and yet he was becoming master of his time; he began to know just what he could do with it. There was no sense of rush. He was quieter inside now, and at resting-time he could really rest.
+\chant{Leaf chant Purgatorial.pdf}
 
-Then suddenly they changed all his hours; they hardly let him go to bed at all; they took him off carpentry altogether and kept him at plain digging, day after day. He took it fairly well. It was a long while before he even began to grope in the back of his mind for the curses that he had practically forgotten. He went on digging, till his back seemed broken, his hands were raw, and he felt that he could not manage another spadeful. Nobody thanked him. But the doctor came and looked at him.
+\begin{itemize}
+\item At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.
+\itemii But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
+\item He got through quite a lot in a day, now;| he finished small things' off| neatly.‖ He had no “time of his own”| (except alone in his' bed-cell),| and yet he was becoming master of his time;' he began to know just| what he could do with it.
+\itemii ‖There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
+\end{itemize}
+
+\begin{itemize}
+\item Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.
+\itemii He took it fairly|| well.
+\item It was a long while before he even began to| grope in the' back of his mind for the| curses that he had practically forgotten.‖ He went on digging,| till his back seemed broken,' his hands were raw,| and he felt that he could not' manage| another spadeful.
+\itemii Nobody thanked him.|| But the doctor came and looked at him.
+\end{itemize}
 
 “Knock off!” he said. “Complete rest—in the dark.”
 
 \subsection*{The Voices}
 
 Niggle was lying in the dark, resting completely; so that, as he had not been either feeling or thinking at all, he might have been lying there for hours or for years, as far as he could tell. But now he heard Voices: not voices that he had ever heard before. There seemed to be a Medical Board, or perhaps a Court of Inquiry, going on close at hand, in an adjoining room with the door open, possibly, though he could not see any light.
-\scorepagebreak
 
 \chant{Leaf chant Voices.pdf}
 
@@ -243,13 +261,25 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 \itemii “It’s a gift!”|| he said.‖ He was referring to his art,| and also to the result;' but he was using the| word' quite| literally.
 \end{itemize}
 
-He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style-were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
+He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style—were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
 
-The birds were building in the Tree. Astonishing birds: how they sang! They were mating, hatching, growing wings, and flying away singing into the Forest, even while he looked at them. For now he saw that the Forest was there too, opening out on either side, and marching away into the distance. The Mountains were glimmering far away.
+\chant{Leaf chant Pastoral.pdf}
 
-After a time Niggle turned towards the Forest. Not because he was tired of the Tree, but he seemed to have got it all clear in his mind now, and was aware of it, and of its growth, even when he was not looking at it. As he walked away, he discovered an odd thing: the Forest, of course, was a distant Forest, yes he could approach it, even enter it, without its losing that particular charm. He had never before been able to walk into the distance without turning it into mere surroundings. It really added a considerable attraction to walking in the country, because, as you walked, new distances opened out; so that you now had doubled, treble, and quadruple distances, doubly, trebly, and quadruply enchanting. You could go on and on, and have a whole country in a garden, or in a picture (if you preferred to call it that). You could go on and on, but not perhaps for ever. There were the Mountains in the background. They did get nearer, very slowly. They did not seem to belong to the picture, or only as a link to something else, a glimpse through the trees of something different, a further stage: another picture.
+\begin{itemize}
+\item The birds were building in the Tree.| Astonishing birds:' how they| sang!‖ They were mating,| hatching,' growing wings,| and flying away singing' into the Forest,| even while he looked at them.
+\itemii For now he saw that the Forest was there too,| opening out on' either| side,‖ and marching away into the distance.| The Mountains were' glimmering|| far away.
+\end{itemize}
 
-Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought-but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
+\begin{itemize}
+\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,| and of its growth,| even when he was' not|| looking at it.
+\itemii As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yes he could| approach it,' even enter it,| without its' losing that| particular charm.
+\item He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble,| and quadruple distances,
+\itemii ‖| doubly,| trebly,'| and quadruply| enchanting.
+\item You could go on and on,| and have a whole country in a garden,' or in a picture| (if you preferred to call it that).‖ You could go on and on, but| not perhaps' for ever.| There were the Mountains in the background.' They did get nearer,| very slowly.
+\itemii They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further 'stage:| another'| picture.
+\end{itemize}
+
+Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
 
 “Of course!” he said. “What I need is Parish. There are lots of things about earth, plants, and trees that he knows and I don’t. This place cannot be left just as my private park. I need help and advice: I ought to have got it sooner.”
 
