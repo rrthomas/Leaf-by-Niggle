@@ -367,6 +367,8 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 
 “No, that is so,” said the First Voice. “I think we shall have to give the region a name. What do you propose?”
 
-“The Porter settled that some time ago,” said the Second Voice. “Train for Niggle’s Parish in the bay: he has shouted that for a long while now. Niggle’s Parish. I sent a message to both of them to tell them.” “What did they say?”
+“The Porter settled that some time ago,” said the Second Voice. “Train for Niggle’s Parish in the bay: he has shouted that for a long while now. Niggle’s Parish. I sent a message to both of them to tell them.”
+
+“What did they say?”
 
 “They both laughed. Laughed—the Mountains rang with it!”
