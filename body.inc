@@ -19,7 +19,7 @@ He had a number of pictures on hand; most of them were too large and ambitious f
 \chant{Leaf chant Industrial.pdf}
 
 \begin{itemize}
-\item There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.
+\item There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.‖
 \itemii Strange birds came and settled on the twigs and had to be attended to.| Then all round the Tree,' and behind it,| through the gaps in the leaves and boughs,‖ a country began to open out;| and there were glimpses of a forest' marching over the land,|| and of mountains tipped with snow.
 \item Niggle lost interest in his other pictures;| or else he took them and' tacked them on to the edges of his| great picture.‖ Soon the canvas became so large that he had to get a ladder;| and he ran up and down it,' putting in a touch here,|| and rubbing out a patch there.
 \itemii When people came to call he seemed polite enough,| though he fiddled a little' with the pencils on his| desk.‖ He listened to what they said,| but underneath he was' thinking all the time about his big canvas,| in the tall shed that had been built for it' out in his garden| (on a plot where once he had grown potatoes) .
@@ -136,17 +136,17 @@ At first, during the first century or so (I am merely giving his impressions), h
 \chant{Leaf chant Purgatorial.pdf}
 
 \begin{itemize}
-\item At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.
+\item At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.‖
 \itemii But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
 \item He got through quite a lot in a day, now;| he finished small things' off| neatly.‖ He had no “time of his own”| (except alone in his' bed-cell),| and yet he was becoming master of his time;' he began to know just| what he could do with it.
 \itemii ‖There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
 \end{itemize}
 
 \begin{itemize}
-\item Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.
-\itemii He took it fairly|| well.
+\item Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.‖
+\itemii He took it fairly|| well.‖
 \item It was a long while before he even began to| grope in the' back of his mind for the| curses that he had practically forgotten.‖ He went on digging,| till his back seemed broken,' his hands were raw,| and he felt that he could not' manage| another spadeful.
-\itemii Nobody thanked him.|| But the doctor came and looked at him.
+\itemii Nobody thanked him.|| But the doctor came and looked at him.‖
 \end{itemize}
 
 “Knock off!” he said. “Complete rest—in the dark.”
@@ -271,7 +271,7 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 \end{itemize}
 
 \begin{itemize}
-\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,| and of its growth,| even when he was' not|| looking at it.
+\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,| and of its growth,| even when he was' not|| looking at it.‖
 \itemii As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yes he could| approach it,' even enter it,| without its' losing that| particular charm.
 \item He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble,| and quadruple distances,
 \itemii ‖| doubly,| trebly,'| and quadruply| enchanting.
