@@ -137,16 +137,16 @@ At first, during the first century or so (I am merely giving his impressions), h
 
 \begin{itemize}
 \item At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.‖
-\itemii But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
+\itemii But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than' jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
 \item He got through quite a lot in a day, now;| he finished small things' off| neatly.‖ He had no “time of his own”| (except alone in his' bed-cell),| and yet he was becoming master of his time;' he began to know just| what he could do with it.
-\itemii ‖There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
+\itemii ‖ There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
 \end{itemize}
 
 \begin{itemize}
 \item Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.‖
-\itemii He took it fairly|| well.‖
+\itemii He took it fairly|| we'll.‖
 \item It was a long while before he even began to| grope in the' back of his mind for the| curses that he had practically forgotten.‖ He went on digging,| till his back seemed broken,' his hands were raw,| and he felt that he could not' manage| another spadeful.
-\itemii Nobody thanked him.|| But the doctor came and looked at him.‖
+\itemii Nobody thanked him.|| But the doctor came and' looked at him.‖
 \end{itemize}
 
 “Knock off!” he said. “Complete rest—in the dark.”
@@ -208,7 +208,7 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \end{itemize}
 
 \begin{itemize}
-\item “I think you put it too strongly,” said the First Voice.| “But you 'have the| last word.‖ It is your task, of| course,' to put the| best interpretation' on the facts. Sometimes they will bear it.| What do you propose?”
+\item “I think you put it too strongly,” said the First Voice.| “But you' have the| last word.‖ It is your task, of| course,' to put the| best interpretation' on the facts. Sometimes they will bear it.| What do you propose?”
 \end{itemize}
 
 \begin{itemize}
@@ -271,12 +271,12 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 \end{itemize}
 
 \begin{itemize}
-\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,| and of its growth,| even when he was' not|| looking at it.‖
-\itemii As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yes he could| approach it,' even enter it,| without its' losing that| particular charm.
-\item He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble,| and quadruple distances,
-\itemii ‖| doubly,| trebly,'| and quadruply| enchanting.
+\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,‖ and of its growth,| even when he was' not|| looking at it.
+\itemii As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yet he could| approach it,' even enter it,| without its' losing that| particular charm.
+\item He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble, and| quadruple distances,
+\itemii ‖ doubly,| trebly,' and| quadruply'| enchanting.
 \item You could go on and on,| and have a whole country in a garden,' or in a picture| (if you preferred to call it that).‖ You could go on and on, but| not perhaps' for ever.| There were the Mountains in the background.' They did get nearer,| very slowly.
-\itemii They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further 'stage:| another'| picture.
+\itemii They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| picture.
 \end{itemize}
 
 Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
@@ -327,7 +327,7 @@ For a moment a shadow fell between Niggle and Parish, for Niggle knew that he di
 
 “No, it was only a glimpse then,” said the man; “but you might have caught the glimpse, if you had ever thought it worth while to try.”
 
-“I did not give you much chance,” said Niggle. “I never tried to explain. I used to call you Old Earth-grubber. But what does it matter? We have lived and worked together now. Things might have been different, but they could not have been better. All the same, I am afraid I sqall have to be going on. We shall meet again, I expect: there must be many more things we can do together. Good-bye!” He shook Parish’s hand warmly: a good, firm, honest hand it seemed. He turned and looked back for a moment. The blossom on the Great Tree was shining like flame. All the birds were flying in the air and singing. Then he smiled, and nodded to Parish, and went off with the shepherd.
+“I did not give you much chance,” said Niggle. “I never tried to explain. I used to call you Old Earth-grubber. But what does it matter? We have lived and worked together now. Things might have been different, but they could not have been better. All the same, I am afraid I shall have to be going on. We shall meet again, I expect: there must be many more things we can do together. Good-bye!” He shook Parish’s hand warmly: a good, firm, honest hand it seemed. He turned and looked back for a moment. The blossom on the Great Tree was shining like flame. All the birds were flying in the air and singing. Then he smiled, and nodded to Parish, and went off with the shepherd.
 
 He was going to learn about sheep, and the high pasturages, and look at a wider sky, and walk ever further and further towards the Mountains, always uphill. Beyond that I cannot guess what became of him. Even little Niggle in his old home could glimpse the Mountains far away, and they got into the borders of his picture; but what they are really like, and what lies beyond them, only those can say who have climbed them.
 
