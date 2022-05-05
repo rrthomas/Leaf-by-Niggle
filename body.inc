@@ -6,12 +6,12 @@ There was once a little man called Niggle, who had a long journey to make. He di
 \chant{Leaf chant Industrial.pdf}
 
 \begin{itemize}
-\itemspecial Niggle was a painter.
- \item Not a very successful one,| partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
-\itemii There were other hindrances, too.| For one thing,' he was sometimes just idle, and did| nothing at all.‖ For another,| he was' kind-|heart'ed,| in a way.
-\item You know the sort of kind heart:| it made him uncomfortable more often than it made' him| do anything;‖ and even when he did anything,| it did not prevent him from' grumbling,| losing his temper,' and swearing| (mostly to himself).
-\itemii All the same, it did land him in a good many| odd' jobs| for his neighbour, Mr. Parish, a man with a lame leg.‖ Occasionally he even helped other people from further off,| if they' came and| asked' him| to.
-\itemii ‖ Also,| now and again,' he remembered his journey,| and began to pack a few things in an' ineffectual way:| at such times he did not paint very much.
+\nochant Niggle was a painter.
+ \halfone Not a very successful one,| partly because he had many' other things to| do.‖ Most of these things he thought were a nuisance;| but he did them fairly well,' when he could not get out of them:| which (in his opinion) was' far too often.| The laws in his country were rather strict.
+\halftwo There were other hindrances, too.| For one thing,' he was sometimes just idle, and did| nothing at all.‖ For another,| he was' kind-|heart'ed,| in a way.
+\halfone You know the sort of kind heart:| it made him uncomfortable more often than it made' him| do anything;‖ and even when he did anything,| it did not prevent him from' grumbling,| losing his temper,' and swearing| (mostly to himself).
+\halftwo All the same, it did land him in a good many| odd' jobs| for his neighbour, Mr. Parish, a man with a lame leg.‖ Occasionally he even helped other people from further off,| if they' came and| asked' him| to.
+\quarterfour ‖ Also,| now and again,' he remembered his journey,| and began to pack a few things in an' ineffectual way:| at such times he did not paint very much.
 \end{itemize}
 
 He had a number of pictures on hand; most of them were too large and ambitious for his skill. He was the sort of painter who can paint leaves better than trees. He used to spend a long time on a single leaf, trying to catch its shape, and its sheen, and the glistening of dewdrops on its edges. Yet he wanted to paint a whole tree, with all of its leaves in the same style, and all of them different.
@@ -19,10 +19,10 @@ He had a number of pictures on hand; most of them were too large and ambitious f
 \chant{Leaf chant Industrial.pdf}
 
 \begin{itemize}
-\item There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.‖
-\itemii Strange birds came and settled on the twigs and had to be attended to.| Then all round the Tree,' and behind it,| through the gaps in the leaves and boughs,‖ a country began to open out;| and there were glimpses of a forest' marching over the land,|| and of mountains tipped with snow.
-\item Niggle lost interest in his other pictures;| or else he took them and' tacked them on to the edges of his| great picture.‖ Soon the canvas became so large that he had to get a ladder;| and he ran up and down it,' putting in a touch here,|| and rubbing out a patch there.
-\itemii When people came to call he seemed polite enough,| though he fiddled a little' with the pencils on his| desk.‖ He listened to what they said,| but underneath he was' thinking all the time about his big canvas,| in the tall shed that had been built for it' out in his garden| (on a plot where once he had grown potatoes) .
+\halfone There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.‖
+\halftwo Strange birds came and settled on the twigs and had to be attended to.| Then all round the Tree,' and behind it,| through the gaps in the leaves and boughs,‖ a country began to open out;| and there were glimpses of a forest' marching over the land,|| and of mountains tipped with snow.
+\halfone Niggle lost interest in his other pictures;| or else he took them and' tacked them on to the edges of his| great picture.‖ Soon the canvas became so large that he had to get a ladder;| and he ran up and down it,' putting in a touch here,|| and rubbing out a patch there.
+\halftwo When people came to call he seemed polite enough,| though he fiddled a little' with the pencils on his| desk.‖ He listened to what they said,| but underneath he was' thinking all the time about his big canvas,| in the tall shed that had been built for it' out in his garden| (on a plot where once he had grown potatoes) .
 \end{itemize}
 
 He could not get rid of his kind heart. “I wish I was more strong-minded!” he sometimes said to himself, meaning that he wished other people’s troubles did not make him feel uncomfortable. But for a long time he was not seriously perturbed. “At any rate, I shall get this one picture done, my real picture, before I have to go on that wretched journey,” he used to say. Yet he was beginning to see that he could not put off his start indefinitely. The picture would have to stop just growing and get finished.
@@ -126,9 +126,9 @@ Niggle felt very ill, and fainted on the platform. They put him in an ambulance 
 \chant{Leaf chant Purgatorial.pdf}
 
 \begin{itemize}
-\item He did not like the treatment at all.| The medicine they' gave him| was bitter.‖ The officials and attendants were unfriendly, silent, and strict;| and he' never saw anyone else,| except a very severe doctor,' who visited him occasionally.| It was more like being in a prison than in a hospital.
-\itemii He had to work hard, at stated hours:| at digging,' carpentry,| and painting bare boards all one' plain colour.‖ He was never allowed outside, and the windows all looked inwards.| They kept him in the dark' for hours at a stretch, |“to do some thinking,”' they said.| He lost count of time.
-\itemii He did not even begin to feel better,| not if that could be' judged by| whether he felt any pleasure in' doing anything.‖ He did not,|| not even in getting into bed.
+\halfone He did not like the treatment at all.| The medicine they' gave him| was bitter.‖ The officials and attendants were unfriendly, silent, and strict;| and he' never saw anyone else,| except a very severe doctor,' who visited him occasionally.| It was more like being in a prison than in a hospital.
+\halftwo He had to work hard, at stated hours:| at digging,' carpentry,| and painting bare boards all one' plain colour.‖ He was never allowed outside, and the windows all looked inwards.| They kept him in the dark' for hours at a stretch, |“to do some thinking,”' they said.| He lost count of time.
+\halftwo He did not even begin to feel better,| not if that could be' judged by| whether he felt any pleasure in' doing anything.‖ He did not,|| not even in getting into bed.
 \end{itemize}
 
 At first, during the first century or so (I am merely giving his impressions), he used to worry aimlessly about the past. One thing he kept on repeating to himself, as he lay in the dark: “I wish I had called on Parish the first morning after the high winds began. I meant to. The first loose tiles would have been easy to fix. Then Mrs. Parish might never have caught cold. Then I should not have caught cold either. Then I should have had a week longer!” But in time he forgot what it was that he had wanted a week longer for. If he worried at all after that, it was about his jobs in the hospital. He planned them out, thinking how quickly he could stop that board creaking, or rehang that door, or mend that table-leg. Probably he really became rather useful, though no one ever told him so. But that, of course, cannot have been the reason why they kept the poor little man so long. They may have been waiting for him to get better, and judging “better” by some odd medical standard of their own.
@@ -136,17 +136,17 @@ At first, during the first century or so (I am merely giving his impressions), h
 \chant{Leaf chant Purgatorial.pdf}
 
 \begin{itemize}
-\item At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.‖
-\itemii But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than' jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
-\item He got through quite a lot in a day, now;| he finished small things' off| neatly.‖ He had no “time of his own”| (except alone in his' bed-cell),| and yet he was becoming master of his time;' he began to know just| what he could do with it.
-\itemii ‖ There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
+\halfone At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.‖
+\halftwo But it could not be denied that he began to have a feeling of—|well,' satisfaction:| bread rather than' jam.‖ He could take up a task the moment one bell rang,| and lay it aside promptly the moment the' next one went,| all tidy and' ready to be continued| at the right time.
+\halfone He got through quite a lot in a day, now;| he finished small things' off| neatly.‖ He had no “time of his own”| (except alone in his' bed-cell),| and yet he was becoming master of his time;' he began to know just| what he could do with it.
+\quarterfour ‖ There was no sense of rush.| He was quieter' inside now,| and at resting-time he could'| really rest.
 \end{itemize}
 
 \begin{itemize}
-\item Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.‖
-\itemii He took it fairly|| we'll.‖
-\item It was a long while before he even began to| grope in the' back of his mind for the| curses that he had practically forgotten.‖ He went on digging,| till his back seemed broken,' his hands were raw,| and he felt that he could not' manage| another spadeful.
-\itemii Nobody thanked him.|| But the doctor came and' looked at him.‖
+\halfone Then suddenly they changed all his hours;| they hardly let him go to bed at all;' they took him off carpentry altogether and kept him at plain digging,| day after day.‖
+\halftwo He took it fairly|| we'll.‖
+\halfone It was a long while before he even began to| grope in the' back of his mind for the| curses that he had practically forgotten.‖ He went on digging,| till his back seemed broken,' his hands were raw,| and he felt that he could not' manage| another spadeful.
+\halftwo Nobody thanked him.|| But the doctor came and' looked at him.‖
 \end{itemize}
 
 “Knock off!” he said. “Complete rest—in the dark.”
@@ -158,61 +158,61 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \chant{Leaf chant Voices.pdf}
 
 \begin{itemize}
-\item “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖
+\halfone “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖
 \end{itemize}
 
 \begin{itemize}
-\itemii “What was the matter with him?”| said a Second Voice,' a voice that you might have called gentle,| though it was not soft—‖ it was a voice of authority,| and sounded at once' hopeful and sad.| “What was the matter with Niggle?' His heart was in the| right place.”
+\halftwo “What was the matter with him?”| said a Second Voice,' a voice that you might have called gentle,| though it was not soft—‖ it was a voice of authority,| and sounded at once' hopeful and sad.| “What was the matter with Niggle?' His heart was in the| right place.”
 \end{itemize}
 
 \begin{itemize}
-\item “Yes, but it did not function properly,” said the First Voice.| “And his head was not screwed on tight enough:' he hardly ever thought at all.| Look at the time he wasted, not even amusing himself!‖ He never got ready for his journey.| He was moderately well-off,' and yet he arrived here almost destitute, and| had to be put in the paupers’ wing.' A bad case, I am afraid.| I think he should stay some time yet.”
+\halfone “Yes, but it did not function properly,” said the First Voice.| “And his head was not screwed on tight enough:' he hardly ever thought at all.| Look at the time he wasted, not even amusing himself!‖ He never got ready for his journey.| He was moderately well-off,' and yet he arrived here almost destitute, and| had to be put in the paupers’ wing.' A bad case, I am afraid.| I think he should stay some time yet.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “It would not do him any harm, perhaps,” said the Second Voice.| “But, of course, he is only a little man.' He was never meant to be anything very much;| and he was never very strong.‖ Let us look at the Records.| Yes.' There are some favourable points,|| you know.”
+\halftwo “It would not do him any harm, perhaps,” said the Second Voice.| “But, of course, he is only a little man.' He was never meant to be anything very much;| and he was never very strong.‖ Let us look at the Records.| Yes.' There are some favourable points,|| you know.”
 \end{itemize}
 
 \begin{itemize}
-\item “Perhaps,” said the First Voice;| “but very few that will really bear'| examination.”‖
+\halfone “Perhaps,” said the First Voice;| “but very few that will really bear'| examination.”‖
 \end{itemize}
 
 \begin{itemize}
-\itemii “Well,” said the Second Voice, “there are these.| He was a painter by nature.' In a minor way, of course;| still, a Leaf by Niggle has a charm of its own.‖ He took a great deal of pains with leaves, just for their own sake.| But he never thought that that made him' important.| There is no note in the Records of his pretending, even to himself,' that it excused his neglect of things| ordered by the law.”
+\halftwo “Well,” said the Second Voice, “there are these.| He was a painter by nature.' In a minor way, of course;| still, a Leaf by Niggle has a charm of its own.‖ He took a great deal of pains with leaves, just for their own sake.| But he never thought that that made him' important.| There is no note in the Records of his pretending, even to himself,' that it excused his neglect of things| ordered by the law.”
 \end{itemize}
 
 \begin{itemize}
-\item “Then he should not have| neglected so many,”'| said the First Voice.‖
+\halfone “Then he should not have| neglected so many,”'| said the First Voice.‖
 \end{itemize}
 
 \begin{itemize}
-\itemii ‖ “All the same, he did answer a||| good many Calls.”
+\quarterfour ‖ “All the same, he did answer a||| good many Calls.”
 \end{itemize}
 
 \begin{itemize}
-\item “A small percentage,| mostly of the' easier sort,| and he called those Interruptions.‖ The Records are full of the word,| together' with a| lot of' complaints and| silly imprecations.”
+\halfone “A small percentage,| mostly of the' easier sort,| and he called those Interruptions.‖ The Records are full of the word,| together' with a| lot of' complaints and| silly imprecations.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “True;| but they looked like interruptions to him,' of course,| poor little man.‖ And there is this: he never expected any Return, as so many of his sort call it.| There is the Parish case, the one that came in later.' He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all.| But there is no note in the Records that Niggle expected Parish’s gratitude;' he does not seem to have| thought about it.”
+\halftwo “True;| but they looked like interruptions to him,' of course,| poor little man.‖ And there is this: he never expected any Return, as so many of his sort call it.| There is the Parish case, the one that came in later.' He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all.| But there is no note in the Records that Niggle expected Parish’s gratitude;' he does not seem to have| thought about it.”
 \end{itemize}
 
 \chant{Leaf chant Voices.pdf}
 
 \begin{itemize}
-\item “Yes, that is a point;” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
+\halfone “Yes, that is a point;” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
 \end{itemize}
 
 \begin{itemize}
-\itemii “Still, there is this last report,” said the Second Voice,| “that' wet| bicycle-ride.‖ I rather lay stress on that.| It seems plain that this was a genuine' sacrifice:| Niggle guessed that he was throwing away his last chance with his picture,' and he guessed; too, that| Parish was worrying unnecessarily.”
+\halftwo “Still, there is this last report,” said the Second Voice,| “that' wet| bicycle-ride.‖ I rather lay stress on that.| It seems plain that this was a genuine' sacrifice:| Niggle guessed that he was throwing away his last chance with his picture,' and he guessed; too, that| Parish was worrying unnecessarily.”
 \end{itemize}
 
 \begin{itemize}
-\item “I think you put it too strongly,” said the First Voice.| “But you' have the| last word.‖ It is your task, of| course,' to put the| best interpretation' on the facts. Sometimes they will bear it.| What do you propose?”
+\halfone “I think you put it too strongly,” said the First Voice.| “But you' have the| last word.‖ It is your task, of| course,' to put the| best interpretation' on the facts. Sometimes they will bear it.| What do you propose?”
 \end{itemize}
 
 \begin{itemize}
-\itemii ‖“I think it is a case for a little gentle treatment now,”||| said the Second Voice.
+\quarterfour ‖“I think it is a case for a little gentle treatment now,”||| said the Second Voice.
 \end{itemize}
 
 Niggle thought that he had never heard anything so generous as that Voice. It made Gentle Treatment sound like a load of rich gifts, and the summons to a King’s feast. Then suddenly Niggle felt ashamed. To hear that he was considered a case for Gentle Treatment overwhelmed him, and made him blush in the dark. It was like being publicly praised; when you and all the audience knew that the praise was not deserved. Niggle hid his blushes in the rough blanket.
@@ -254,11 +254,11 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 \chant{Leaf chant Pastoral.pdf}
 
 \begin{itemize}
-\item Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
+\halfone Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
 \end{itemize}
 
 \begin{itemize}
-\itemii “It’s a gift!”|| he said.‖ He was referring to his art,| and also to the result;' but he was using the| word' quite| literally.
+\halftwo “It’s a gift!”|| he said.‖ He was referring to his art,| and also to the result;' but he was using the| word' quite| literally.
 \end{itemize}
 
 He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style—were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
@@ -266,17 +266,17 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 \chant{Leaf chant Pastoral.pdf}
 
 \begin{itemize}
-\item The birds were building in the Tree.| Astonishing birds:' how they| sang!‖ They were mating,| hatching,' growing wings,| and flying away singing' into the Forest,| even while he looked at them.
-\itemii For now he saw that the Forest was there too,| opening out on' either| side,‖ and marching away into the distance.| The Mountains were' glimmering|| far away.
+\halfone The birds were building in the Tree.| Astonishing birds:' how they| sang!‖ They were mating,| hatching,' growing wings,| and flying away singing' into the Forest,| even while he looked at them.
+\halftwo For now he saw that the Forest was there too,| opening out on' either| side,‖ and marching away into the distance.| The Mountains were' glimmering|| far away.
 \end{itemize}
 
 \begin{itemize}
-\item After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,‖ and of its growth,| even when he was' not|| looking at it.
-\itemii As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yet he could| approach it,' even enter it,| without its' losing that| particular charm.
-\item He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble, and| quadruple distances,
-\itemii ‖ doubly,| trebly,' and| quadruply'| enchanting.
-\item You could go on and on,| and have a whole country in a garden,' or in a picture| (if you preferred to call it that).‖ You could go on and on, but| not perhaps' for ever.| There were the Mountains in the background.' They did get nearer,| very slowly.
-\itemii They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| picture.
+\halfone After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,‖ and of its growth,| even when he was' not|| looking at it.
+\halftwo As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yet he could| approach it,' even enter it,| without its' losing that| particular charm.
+\halfone He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble, and| quadruple distances,
+\quarterfour ‖ doubly,| trebly,' and| quadruply'| enchanting.
+\halfone You could go on and on,| and have a whole country in a garden,' or in a picture| (if you preferred to call it that).‖ You could go on and on, but| not perhaps' for ever.| There were the Mountains in the background.' They did get nearer,| very slowly.
+\halftwo They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| picture.
 \end{itemize}
 
 Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.

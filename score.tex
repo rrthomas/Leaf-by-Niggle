@@ -5,7 +5,7 @@
 \documentclass{scrartcl}
 \usepackage{fontspec,url,microtype}
 \usepackage[british]{babel}
-\usepackage{gitinfo2,xparse,graphicx}
+\usepackage{gitinfo2,xparse,graphicx,circledsteps}
 
 
 % Alter some default parameters for general typesetting
@@ -26,8 +26,11 @@
 \def|{\textbf{~\textbar}}
 \catcode`‖=\active
 \def‖{\textbf{~\textbar\textbar}}
-\newcommand{\itemii}{\item[$\circ$]}
-\newcommand{\itemspecial}{\item[\textbf{!}]}
+\newcommand{\halfone}{\item[\Circled{1}]}
+\newcommand{\halftwo}{\item[\Circled{3}]}
+\newcommand{\quartertwo}{\item[\Circled{2}]}
+\newcommand{\quarterfour}{\item[\Circled{4}]}
+\newcommand{\nochant}{\item[\Circled{!}]}
 \newcommand{\scorepagebreak}{\pagebreak}
 \newcommand{\chant}[1]{\pagebreak\noindent\includegraphics[scale=0.8]{#1}}
 
