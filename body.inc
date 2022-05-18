@@ -235,17 +235,17 @@ Niggle woke up to find that his blinds were drawn, and his little cell was full 
 
 “You can go to the railway station now,” said the doctor. “The Porter will look after you. Good-bye.”
 
-Niggle slipped out of the main door, and blinked a little. The sun was very bright. Also he had expected to walk out into a large town, to match the size of the station; but he did not. He was on the top of a hill, green, bare, swept by a keen invigorating wind. Nobody else was about. Away down under the hill he could see the roof of the station shining.
+\musicnote{C minor}Niggle slipped out of the main door, and blinked a little. The sun was very bright. Also he had expected to walk out into a large town, to match the size of the station; but he did not. He was on the top of a hill, green, bare, swept by a keen invigorating wind. Nobody else was about. Away down under the hill he could see the roof of the station shining.
 
 He walked downhill to the station briskly, but without hurry. The Porter spotted him at once.
 
-“This way!” he said, and led Niggle to a bay, in which there was a very pleasant little local train standing: one coach, and a small engine, both very bright, clean, and newly painted. It looked as if this was their first run. Even the track that lay in front of the engine looked new: the rails shone, the chairs were painted green, and the sleepers gave off a delicious smell of fresh tar in the warm sunshine. The coach was empty.
+“This way!” he said, and led Niggle to a bay, in which there was \musicnote{C major}a very pleasant little local train standing: one coach, and a small engine, both very bright, clean, and newly painted. It looked as if this was their first run. Even the track that lay in front of the engine looked new: the rails shone, the chairs were painted green, and the sleepers gave off a delicious smell of fresh tar in the warm sunshine. The coach was empty.
 
 “Where does this train go, Porter?” asked Niggle.
 
 “I don’t think they have fixed its name yet,” said the Porter. “But you’ll find it all right.” He shut the door.
 
-The train moved off at once. Niggle lay back in his seat. The little engine puffed along in a deep cutting with high green banks, roofed with blue sky. It did not seem very long before the engine gave a whistle, the brakes were put on, and the train stopped. There was no station, and no signboard, only a flight of steps up the green embankment. At the top of the steps there was a wicket-gate in a trim hedge. By the gate stood his bicycle; at least, it looked like his, and there was a yellow label tied to the bars with NIGGLE written on it in large black letters.
+\musicnote{2× speed}The train moved off at once. Niggle lay back in his seat. The little engine puffed along in a deep cutting with high green banks, roofed with blue sky. It did not seem very long before the engine gave a whistle, the brakes were put on, and the train stopped.\musicnote{1× speed} There was no station, and no signboard, only a flight of steps up the green embankment. At the top of the steps there was a wicket-gate in a trim hedge. By the gate stood his bicycle; at least, it looked like his, and there was a yellow label tied to the bars with NIGGLE written on it in large black letters.
 
 \section*{Pastoral}
 
