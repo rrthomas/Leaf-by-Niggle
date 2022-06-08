@@ -251,7 +251,7 @@ He walked downhill to the station briskly, but without hurry. The Porter spotted
 
 Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in the spring sunshine. Before long he found that the path on which he had started had disappeared, and the bicycle was rolling along over a marvellous turf. It was green and close; and yet he could see every blade distinctly. He seemed to remember having seen or dreamed of that sweep of grass somewhere or other. The curves of the land were familiar somehow. Yes: the ground was becoming level, as it should, and now, of course, it was beginning to rise again. A great green shadow came between him and the sun. Niggle looked up, and fell off his bicycle.
 
-\chant{Leaf chant Pastoral.pdf}
+\chant{Leaf chant Pastoral full.pdf}
 
 \begin{itemize}
 \halfone Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
@@ -263,18 +263,18 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 
 He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style—were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
 
-\chant{Leaf chant Pastoral.pdf}
+\chant{Leaf chant Pastoral full.pdf}
 
 \begin{itemize}
 \halfone The birds were building in the Tree.| Astonishing birds:' how they| sang!‖ They were mating,| hatching,' growing wings,| and flying away singing' into the Forest,| even while he looked at them.
-\halftwo For now he saw that the Forest was there too,| opening out on' either| side,‖ and marching away into the distance.| The Mountains were' glimmering|| far away.
+\halftwo For now he saw that the Forest was there too,| opening out on' either| side,‖ and marching away into the distance.|' The Mountains were|' glimmering| far away.
 \end{itemize}
 
 \begin{itemize}
 \halfone After a time Niggle turned towards the Forest.| Not because he was tired of the Tree,' but he seemed to have got it all clear in his mind now,| and was aware of it,‖ and of its growth,| even when he was' not|| looking at it.
 \halftwo As he walked away,| he discovered an odd thing:' the Forest, of course, was a| distant Forest,‖ yet he could| approach it,' even enter it,| without its' losing that| particular charm.
-\halfone He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out;| so that you now had double,' treble, and| quadruple distances,
-\quarterfour ‖ doubly,| trebly,' and| quadruply'| enchanting.
+\halfone He had never before been able to walk into the distance without turning it into| mere' surr|oundings.‖ It really added a considerable attraction to walking in the country,| because, as you walked,' new distances opened out; so that you now had| double,' treble, and| quadruple distances,
+\quarterfour ‖| doubly,' trebly, and| quadruply'| enchanting.
 \halfone You could go on and on,| and have a whole country in a garden,' or in a picture| (if you preferred to call it that).‖ You could go on and on, but| not perhaps' for ever.| There were the Mountains in the background.' They did get nearer,| very slowly.
 \halftwo They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| picture.
 \end{itemize}
