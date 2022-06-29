@@ -251,7 +251,7 @@ He walked downhill to the station briskly, but without hurry. The Porter spotted
 
 Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in the spring sunshine. Before long he found that the path on which he had started had disappeared, and the bicycle was rolling along over a marvellous turf. It was green and close; and yet he could see every blade distinctly. He seemed to remember having seen or dreamed of that sweep of grass somewhere or other. The curves of the land were familiar somehow. Yes: the ground was becoming level, as it should, and now, of course, it was beginning to rise again. A great green shadow came between him and the sun. Niggle looked up, and fell off his bicycle.
 
-\chant{Leaf chant Pastoral full.pdf}
+\chantnobreak{Leaf chant Pastoral short 3rd.pdf}
 
 \begin{itemize}
 \halfone Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
