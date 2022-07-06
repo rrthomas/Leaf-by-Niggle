@@ -27,15 +27,41 @@ He had a number of pictures on hand; most of them were too large and ambitious f
 
 He could not get rid of his kind heart. “I wish I was more strong-minded!” he sometimes said to himself, meaning that he wished other people’s troubles did not make him feel uncomfortable. But for a long time he was not seriously perturbed. “At any rate, I shall get this one picture done, my real picture, before I have to go on that wretched journey,” he used to say. Yet he was beginning to see that he could not put off his start indefinitely. The picture would have to stop just growing and get finished.
 
-One day, Niggle stood a little way off from his picture and considered it with unusual attention and detachment. He could not make up his mind what he thought about it, and wished he had some friend who would tell him what to think. Actually it seemed to him wholly unsatisfactory, and yet very lovely, the only really beautiful picture in the world. What he would have liked at that moment would have been to see himself walk in, and slap him on the back, and say (with obvious sincerity): “Absolutely magnificent! I see exactly what you are getting at. Do get on with it, and don’t bother about anything else! We will arrange for a public pension, so that you need not.”
+\chant{Leaf chant Industrial.pdf}
 
-However, there was no public pension. And one thing he could see: it would need some concentration, some work, hard uninterrupted work, to finish the picture; even at its present size. He rolled up his sleeves, and began to concentrate. He tried for several days not to bother about other things. But there came a tremendous crop of interruptions. Things went wrong in his house; he had to go and serve on a jury in the town; a distant friend fell ill; Mr. Parish was laid up with lumbago; and visitors kept on coming. It was springtime, and they wanted a free tea in the country: Niggle lived in a pleasant little house, miles away from the town. He cursed them in his heart, but he could not deny that he had invited them himself, away back in the winter, when he had not thought it an “interruption” to visit the shops and have tea with acquaintances in the town. He tried to harden his heart; but it was not a success. There were many things that he had not the face to say no to, whether he thought them duties or not; and there were some things he was compelled to do, whatever he thought. Some of his visitors hinted that his garden was rather neglected, and that he might get a visit from an Inspector. Very few of them knew about his picture, of course; but if they had known, it would not have made much difference. I doubt if they would have thought that it mattered much. I dare say it was not really a very good picture, though it may have had some good passages. The Tree, at any rate, was curious. Quite unique in its way. So was Niggle; though he was also a very ordinary and rather silly little man.
+\begin{itemize}
+\halfone One day, Niggle stood a little way off from his picture and considered it with unusual attention and detachment.‖ He could not make up his mind what he thought about it, and wished he had some friend who would tell him what to think.
+\halftwo Actually it seemed to him wholly unsatisfactory, and yet very lovely, the only really beautiful picture in the world.
+\halfone What he would have liked at that moment would have been to see himself walk in, and slap him on the back, and say (with obvious sincerity): “Absolutely magnificent! I see exactly what you are getting at. Do get on with it, and don’t bother about anything else! We will arrange for a public pension, so that you need not.”
+\end{itemize}
+
+\begin{itemize}
+\halftwo However, there was no public pension. And one thing he could see: it would need some concentration, some work, hard uninterrupted work, to finish the picture; even at its present size.
+\halfone He rolled up his sleeves, and began to concentrate. He tried for several days not to bother about other things. But there came a tremendous crop of interruptions.
+\halftwo Things went wrong in his house; he had to go and serve on a jury in the town; a distant friend fell ill; Mr. Parish was laid up with lumbago; and visitors kept on coming.
+\halfone It was springtime, and they wanted a free tea in the country: Niggle lived in a pleasant little house, miles away from the town. He cursed them in his heart, but he could not deny that he had invited them himself, away back in the winter, when he had not thought it an “interruption” to visit the shops and have tea with acquaintances in the town.
+\halftwo He tried to harden his heart; but it was not a success. There were many things that he had not the face to say no to, whether he thought them duties or not; and there were some things he was compelled to do, whatever he thought.
+\halfone Some of his visitors hinted that his garden was rather neglected, and that he might get a visit from an Inspector. Very few of them knew about his picture, of course; but if they had known, it would not have made much difference.
+\halftwo I doubt if they would have thought that it mattered much. I dare say it was not really a very good picture, though it may have had some good passages. The Tree, at any rate, was curious. Quite unique in its way. So was Niggle; though he was also a very ordinary and rather silly little man.
+\end{itemize}
 
 At length Niggle’s time became really precious. His acquaintances in the distant town began to remember that the little man had got to make a troublesome journey, and some began to calculate how long at the latest he could put off starting. They wondered who would take his house, and if the garden would be better kept.
 
-The autumn came, very wet and windy. The little painter was in his shed. He was up on the ladder, trying to catch the gleam of the westering sun on the peak of a snow-mountain, which he had glimpsed just to the left of the leafy tip of one of the Tree’s branches. He knew that he would have to be leaving soon: perhaps early next year. He could only just get the picture finished, and only so so, at that: there were some corners where he would not have time now to do more than hint at what he wanted.
+\chant{Leaf chant Industrial.pdf}
 
-There was a knock on the door. “Come in!” he said sharply, and climbed down the ladder. He stood on the floor twiddling his brush. It was his neighbour, Parish: his only real neighbour, all other folk lived a long way off. Still, he did not like the man very much: partly because he was so often in trouble and in need of help; and also because he did not care about painting, but was very critical about gardening. When Parish looked at Niggle’s garden (which was often) he saw mostly weeds; and when he looked at Niggle’s pictures (which was seldom) he saw only green and grey patches and black lines, which seemed to him nonsensical. He did not mind mentioning the weeds (a neighbourly duty), but he refrained from giving any opinion of the pictures. He thought this was very kind, and he did not realize that, even if it was kind, it was not kind enough. Help with the weeds (and perhaps praise for the pictures) would have been better.
+\begin{itemize}
+\halfone The autumn came, very wet and windy. The little painter was in his shed.
+\halftwo He was up on the ladder, trying to catch the gleam of the westering sun on the peak of a snow-mountain, which he had glimpsed just to the left of the leafy tip of one of the Tree’s branches.
+\halfone He knew that he would have to be leaving soon: perhaps early next year.
+\halftwo He could only just get the picture finished, and only so so, at that: there were some corners where he would not have time now to do more than hint at what he wanted.
+\end{itemize}
+
+\begin{itemize}
+\halfone There was a knock on the door. “Come in!” he said sharply, and climbed down the ladder. He stood on the floor twiddling his brush.
+\halftwo It was his neighbour, Parish: his only real neighbour, all other folk lived a long way off. Still, he did not like the man very much: partly because he was so often in trouble and in need of help; and also because he did not care about painting, but was very critical about gardening.
+\halfone When Parish looked at Niggle’s garden (which was often) he saw mostly weeds; and when he looked at Niggle’s pictures (which was seldom) he saw only green and grey patches and black lines, which seemed to him nonsensical.
+\halftwo He did not mind mentioning the weeds (a neighbourly duty), but he refrained from giving any opinion of the pictures. He thought this was very kind, and he did not realize that, even if it was kind, it was not kind enough. Help with the weeds (and perhaps praise for the pictures) would have been better.
+\end{itemize}
 
 “Well, Parish, what is it?” said Niggle.
 
@@ -57,17 +83,39 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 “I am worried, very worried. I wish I was not lame,” said Parish.
 
-So Niggle went. You see, it was awkward. Parish was his neighbour, and everyone else a long way off. Niggle had a bicycle, and Parish had not, and could not ride one. Parish had a lame leg, a genuine lame leg which gave him a good deal of pain: that had to be remembered, as well as his sour expression and whining voice. Of course, Niggle had a picture and barely time to finish it. But it seemed that this was a thing that Parish had to reckon with and not Niggle. Parish, however, did not reckon with pictures; and Niggle could not alter that. “Curse it!” he said to himself, as he got out his bicycle.
+\chant{Leaf chant Industrial.pdf}
 
-It was wet and windy, and daylight was waning. “No more work for me today!” thought Niggle, and all the time that he was riding, he was either swearing to himself, or imagining the strokes of his brush on the mountain, and on the spray of leaves beside it, that he had first imagined in the spring. His fingers twitched on the handlebars. Now he was out of the shed, he saw exactly the way in which to treat that shining spray which framed the distant vision of the mountain. But he had a sinking feeling in his heart, a sort of fear that he would never now get a chance to try it out.
+\begin{itemize}
+\nochant So Niggle went.
+\halfone You see, it was awkward. Parish was his neighbour, and everyone else a long way off. Niggle had a bicycle, and Parish had not, and could not ride one.
+\halftwo Parish had a lame leg, a genuine lame leg which gave him a good deal of pain: that had to be remembered, as well as his sour expression and whining voice.
+\halfone Of course, Niggle had a picture and barely time to finish it. But it seemed that this was a thing that Parish had to reckon with and not Niggle.
+\halftwo Parish, however, did not reckon with pictures; and Niggle could not alter that. “Curse it!” he said to himself, as he got out his bicycle.
+\end{itemize}
 
-Niggle found the doctor, and he left a note at the builder’s. The office was shut, and the builder had gone home to his fireside. Niggle got soaked to the skin, and caught a chill himself. The doctor did not set out as promptly as Niggle had done. He arrived next day, which was quite convenient for him, as by that time there were two patients to deal with, in neighbouring houses. Niggle was in bed, with a high temperature, and marvellous patterns of leaves and involved branches forming in his head and on the ceiling. It did not comfort him to learn that Mrs. Parish had only had a cold, and was getting up. He turned his face to the wall and buried himself in leaves.
+\begin{itemize}
+\halfone It was wet and windy, and daylight was waning. “No more work for me today!” thought Niggle, and all the time that he was riding, he was either swearing to himself, or imagining the strokes of his brush on the mountain, and on the spray of leaves beside it, that he had first imagined in the spring.
+\halftwo His fingers twitched on the handlebars. Now he was out of the shed, he saw exactly the way in which to treat that shining spray which framed the distant vision of the mountain. But he had a sinking feeling in his heart, a sort of fear that he would never now get a chance to try it out.
+\end{itemize}
+
+\begin{itemize}
+\halfone Niggle found the doctor, and he left a note at the builder’s. The office was shut, and the builder had gone home to his fireside. Niggle got soaked to the skin, and caught a chill himself.
+\halftwo The doctor did not set out as promptly as Niggle had done. He arrived next day, which was quite convenient for him, as by that time there were two patients to deal with, in neighbouring houses. Niggle was in bed, with a high temperature, and marvellous patterns of leaves and involved branches forming in his head and on the ceiling.
+\halftwo It did not comfort him to learn that Mrs. Parish had only had a cold, and was getting up. He turned his face to the wall and buried himself in leaves.
+\end{itemize}
 
 He remained in bed some time. The wind went on blowing. It took away a good many more of Parish’s tiles, and some of Niggle’s as well: his own roof began to leak. The builder did not come. Niggle did not care; not for a day or two. Then he crawled out to look for some food (Niggle had no wife). Parish did not come round: the rain had got into his leg and made it ache; and his wife was busy mopping up water, and wondering if “that Mr. Niggle” had forgotten to call at the builder’s. Had she seen any chance of borrowing anything useful, she would have sent Parish round, leg or no leg; but she did not, so Niggle was left to himself.
 
-At the end of a week or so Niggle tottered out to his shed again. He tried to climb the ladder, but it made his head giddy. He sat and looked at the picture, but there were no patterns of leaves or visions of mountains in his mind that day. He could have painted a far-off view of a sandy desert, but he had not the energy.
+\chant{Leaf chant Industrial.pdf}
 
-Next day he felt a good deal better. He climbed the ladder, and began to paint. He had just begun to get into it again, when there came a knock on the door.
+\begin{itemize}
+\halfone At the end of a week or so Niggle tottered out to his shed again. He tried to climb the ladder, but it made his head giddy. He sat and looked at the picture, but there were no patterns of leaves or visions of mountains in his mind that day.
+\quarterfour He could have painted a far-off view of a sandy desert, but he had not the energy.
+\end{itemize}
+
+\begin{itemize}
+\halfone Next day he felt a good deal better. He climbed the ladder, and began to paint. He had just begun to get into it again, when there came a knock on the door.
+\end{itemize}
 
 “Damn!” said Niggle. But he might just as well have said “Come in!” politely, for the door opened all the same. This time a very tall man came in, a total stranger.
 
