@@ -252,7 +252,7 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \end{itemize}
 
 \begin{itemize}
-\halftwo “Still, there is this last report,” said the Second Voice,| “that' wet| bicycle-ride.‖ I rather lay stress on that.| It seems plain that this was a genuine' sacrifice:| Niggle guessed that he was throwing away his last chance with his picture,' and he guessed; too, that| Parish was worrying unnecessarily.”
+\halftwo “Still, there is this last report,” said the Second Voice,| “that' wet| bicycle-ride.‖ I rather lay stress on that.| It seems plain that this was a genuine' sacrifice:| Niggle guessed that he was throwing away his last chance with his picture,' and he guessed, too, that| Parish was worrying unnecessarily.”
 \end{itemize}
 
 \begin{itemize}
