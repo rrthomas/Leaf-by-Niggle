@@ -3,7 +3,7 @@
 
 There was once a little man called Niggle, who had a long journey to make. He did not want to go, indeed the whole idea was distasteful to him; but he could not get out of it. He knew he would have to start some time, but he did not hurry with his preparations.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \nochant Niggle was a painter.
@@ -16,7 +16,7 @@ There was once a little man called Niggle, who had a long journey to make. He di
 
 He had a number of pictures on hand; most of them were too large and ambitious for his skill. He was the sort of painter who can paint leaves better than trees. He used to spend a long time on a single leaf, trying to catch its shape, and its sheen, and the glistening of dewdrops on its edges. Yet he wanted to paint a whole tree, with all of its leaves in the same style, and all of them different.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \halfone There was one picture in particular which bothered him.| It had begun with a leaf caught in the wind,' and it became a tree;| and the tree grew, sending out innumerable branches, and thrusting out the most fantastic roots.‖
@@ -27,7 +27,7 @@ He had a number of pictures on hand; most of them were too large and ambitious f
 
 He could not get rid of his kind heart. “I wish I was more strong-minded!” he sometimes said to himself, meaning that he wished other people’s troubles did not make him feel uncomfortable. But for a long time he was not seriously perturbed. “At any rate, I shall get this one picture done, my real picture, before I have to go on that wretched journey,” he used to say. Yet he was beginning to see that he could not put off his start indefinitely. The picture would have to stop just growing and get finished.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \halfone One day, Niggle stood a little way off from his picture and considered it with unusual attention and detachment.‖ He could not make up his mind what he thought about it, and wished he had some friend who would tell him what to think.
@@ -47,7 +47,7 @@ He could not get rid of his kind heart. “I wish I was more strong-minded!” h
 
 At length Niggle’s time became really precious. His acquaintances in the distant town began to remember that the little man had got to make a troublesome journey, and some began to calculate how long at the latest he could put off starting. They wondered who would take his house, and if the garden would be better kept.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \halfone The autumn came, very wet and windy. The little painter was in his shed.
@@ -83,7 +83,7 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 “I am worried, very worried. I wish I was not lame,” said Parish.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \nochant So Niggle went.
@@ -106,7 +106,7 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 He remained in bed some time. The wind went on blowing. It took away a good many more of Parish’s tiles, and some of Niggle’s as well: his own roof began to leak. The builder did not come. Niggle did not care; not for a day or two. Then he crawled out to look for some food (Niggle had no wife). Parish did not come round: the rain had got into his leg and made it ache; and his wife was busy mopping up water, and wondering if “that Mr. Niggle” had forgotten to call at the builder’s. Had she seen any chance of borrowing anything useful, she would have sent Parish round, leg or no leg; but she did not, so Niggle was left to himself.
 
-\chant{Leaf chant Industrial.pdf}
+\chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \halfone At the end of a week or so Niggle tottered out to his shed again. He tried to climb the ladder, but it made his head giddy. He sat and looked at the picture, but there were no patterns of leaves or visions of mountains in his mind that day.
@@ -171,7 +171,7 @@ Niggle got out in a hurry, and found that he had left his little bag behind. He 
 
 Niggle felt very ill, and fainted on the platform. They put him in an ambulance and took him to the Workhouse Infirmary.
 
-\chant{Leaf chant Purgatorial.pdf}
+\chant{Leaf-Purgatorial-crop.pdf}
 
 \begin{itemize}
 \halfone He did not like the treatment at all.| The medicine they' gave him| was bitter.‖ The officials and attendants were unfriendly, silent, and strict;| and he' never saw anyone else,| except a very severe doctor,' who visited him occasionally.| It was more like being in a prison than in a hospital.
@@ -181,7 +181,7 @@ Niggle felt very ill, and fainted on the platform. They put him in an ambulance 
 
 At first, during the first century or so (I am merely giving his impressions), he used to worry aimlessly about the past. One thing he kept on repeating to himself, as he lay in the dark: “I wish I had called on Parish the first morning after the high winds began. I meant to. The first loose tiles would have been easy to fix. Then Mrs. Parish might never have caught cold. Then I should not have caught cold either. Then I should have had a week longer!” But in time he forgot what it was that he had wanted a week longer for. If he worried at all after that, it was about his jobs in the hospital. He planned them out, thinking how quickly he could stop that board creaking, or rehang that door, or mend that table-leg. Probably he really became rather useful, though no one ever told him so. But that, of course, cannot have been the reason why they kept the poor little man so long. They may have been waiting for him to get better, and judging “better” by some odd medical standard of their own.
 
-\chant{Leaf chant Purgatorial.pdf}
+\chant{Leaf-Purgatorial-crop.pdf}
 
 \begin{itemize}
 \halfone At any rate,| poor Niggle got no pleasure out of life,' not what he had been used to call pleasure.| He was certainly not amused.‖
@@ -203,7 +203,7 @@ At first, during the first century or so (I am merely giving his impressions), h
 
 Niggle was lying in the dark, resting completely; so that, as he had not been either feeling or thinking at all, he might have been lying there for hours or for years, as far as he could tell. But now he heard Voices: not voices that he had ever heard before. There seemed to be a Medical Board, or perhaps a Court of Inquiry, going on close at hand, in an adjoining room with the door open, possibly, though he could not see any light.
 
-\chant{Leaf chant Voices.pdf}
+\chant{Leaf-Voices-crop.pdf}
 
 \begin{itemize}
 \halfone “Now the Niggle case,”| said a Voice,' a severe voice,| more severe than the doctor’s.‖
@@ -245,7 +245,7 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \halftwo “True;| but they looked like interruptions to him,' of course,| poor little man.‖ And there is this: he never expected any Return, as so many of his sort call it.| There is the Parish case, the one that came in later.' He was Niggle’s neighbour, never did a stroke for him, and seldom showed any gratitude at all.| But there is no note in the Records that Niggle expected Parish’s gratitude;' he does not seem to have| thought about it.”
 \end{itemize}
 
-\chant{Leaf chant Voices.pdf}
+\chant{Leaf-Voices-crop.pdf}
 
 \begin{itemize}
 \halfone “Yes, that is a point;” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
@@ -299,7 +299,7 @@ He walked downhill to the station briskly, but without hurry. The Porter spotted
 
 Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in the spring sunshine. Before long he found that the path on which he had started had disappeared, and the bicycle was rolling along over a marvellous turf. It was green and close; and yet he could see every blade distinctly. He seemed to remember having seen or dreamed of that sweep of grass somewhere or other. The curves of the land were familiar somehow. Yes: the ground was becoming level, as it should, and now, of course, it was beginning to rise again. A great green shadow came between him and the sun. Niggle looked up, and fell off his bicycle.
 
-\chantnobreak{Leaf chant Pastoral short 3rd.pdf}
+\chantnobreak{Leaf-Pastoral short 3rd-crop.pdf}
 
 \begin{itemize}
 \halfone Before him stood the Tree,| his' Tree,| finished.‖ If you could say that of a Tree that was alive,| its leaves opening,' its branches growing and bending in the wind that| Niggle had so often felt or guessed,' and had so often failed to catch.| He gazed at the Tree, and slowly he lifted his arms and opened them wide.
@@ -311,7 +311,7 @@ Niggle pushed open the gate, jumped on the bicycle, and went bowling downhill in
 
 He went on looking at the Tree. All the leaves he had ever laboured at were there, as he had imagined them rather than as he had made them; and there were others that had only budded in his mind, and many that might have budded, if only he had had time. Nothing was written on them, they were just exquisite leaves, yet they were dated as clear as a calendar. Some of the most beautiful—and the most characteristic, the most perfect examples of the Niggle style—were seen to have been produced in collaboration with Mr. Parish: there was no other way of putting it.
 
-\chant{Leaf chant Pastoral full.pdf}
+\chant{Leaf-Pastoral full-crop.pdf}
 
 \begin{itemize}
 \halfone The birds were building in the Tree.| Astonishing birds:' how they| sang!‖ They were mating,| hatching,' growing wings,| and flying away singing' into the Forest,| even while he looked at them.
