@@ -30,19 +30,19 @@ He could not get rid of his kind heart. “I wish I was more strong-minded!” h
 \chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
-\halfone One day, Niggle stood a little way off from his picture and considered it with unusual attention and detachment.‖ He could not make up his mind what he thought about it, and wished he had some friend who would tell him what to think.
-\halftwo Actually it seemed to him wholly unsatisfactory, and yet very lovely, the only really beautiful picture in the world.
-\halfone What he would have liked at that moment would have been to see himself walk in, and slap him on the back, and say (with obvious sincerity): “Absolutely magnificent! I see exactly what you are getting at. Do get on with it, and don’t bother about anything else! We will arrange for a public pension, so that you need not.”
+\halfone One day,| Niggle stood a little way off from his picture' and considered it with unusual attention| and detachment.‖ He could not| make up his mind' what he thought about it,| and wished he had some friend' who would tell him| what to think.
+\halftwo Actually it seemed to him wholly unsatisfactory,| and yet very lovely,' the only really beautiful picture| in the world.‖
+\halfone What he would have liked at that moment would have been| to see himself walk in,' and slap him on the back,| and say (with obvious sincerity):‖ “Absolutely magnificent!| I see exactly what you are getting at.| Do get on with it,' and don’t bother about anything else!| We will arrange for a public pension, so that you need not.”
 \end{itemize}
 
 \begin{itemize}
-\halftwo However, there was no public pension. And one thing he could see: it would need some concentration, some work, hard uninterrupted work, to finish the picture; even at its present size.
-\halfone He rolled up his sleeves, and began to concentrate. He tried for several days not to bother about other things. But there came a tremendous crop of interruptions.
-\halftwo Things went wrong in his house; he had to go and serve on a jury in the town; a distant friend fell ill; Mr. Parish was laid up with lumbago; and visitors kept on coming.
-\halfone It was springtime, and they wanted a free tea in the country: Niggle lived in a pleasant little house, miles away from the town. He cursed them in his heart, but he could not deny that he had invited them himself, away back in the winter, when he had not thought it an “interruption” to visit the shops and have tea with acquaintances in the town.
-\halftwo He tried to harden his heart; but it was not a success. There were many things that he had not the face to say no to, whether he thought them duties or not; and there were some things he was compelled to do, whatever he thought.
-\halfone Some of his visitors hinted that his garden was rather neglected, and that he might get a visit from an Inspector. Very few of them knew about his picture, of course; but if they had known, it would not have made much difference.
-\halftwo I doubt if they would have thought that it mattered much. I dare say it was not really a very good picture, though it may have had some good passages. The Tree, at any rate, was curious. Quite unique in its way. So was Niggle; though he was also a very ordinary and rather silly little man.
+\halftwo However,|| there was no public pension.‖ And one thing he could see:| it would need some concentration,' some work,| hard uninterrupted work,' to finish the picture;| even at its present size.
+\halfone He rolled up his sleeves,| and began' to| concentrate.‖ He tried for several days not to bother about other things.| But there came a' tremendous |crop' of| interruptions.
+\halftwo Things went wrong in his house;| he had to go' and serve on a| jury in the town;‖ a distant friend fell ill;| Mr. Parish was laid up with lumbago; and'| visitors' kept on| coming.
+\halfone It was springtime, and they wanted a free tea in the country:| Niggle lived in a' pleasant little house,| miles away from the town.‖ He cursed them in his heart,| but he could not deny that he had invited them himself,' away back in the winter,| when he had not thought it an “interruption”' to visit the shops| and have tea with acquaintances in the town.
+\halftwo He tried to harden his heart; but it was| not' a| success.‖ There were many things that he had not the face to say no to,| whether he thought them' duties or not;| and there were some things he was' compelled to do,| whatever he thought.
+\halfone Some of his visitors hinted that his garden was rather neglected,| and that he might get a' visit from an In|spector.‖ Very few of them knew about his| picture,' of course;| but if they had known,' it would not have made| much difference.
+\halftwo I doubt if they would have thought that it| mat'tered| much.‖ I dare say it was not really a very good picture,| though it may have had' some good passages.| The Tree, at any rate, was curious.' Quite unique in its way.| So was Niggle; though he was also a very ordinary and rather silly little man.
 \end{itemize}
 
 At length Niggle’s time became really precious. His acquaintances in the distant town began to remember that the little man had got to make a troublesome journey, and some began to calculate how long at the latest he could put off starting. They wondered who would take his house, and if the garden would be better kept.
@@ -109,12 +109,12 @@ He remained in bed some time. The wind went on blowing. It took away a good many
 \chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
-\halfone At the end of a week or so Niggle tottered out to his shed again. He tried to climb the ladder, but it made his head giddy. He sat and looked at the picture, but there were no patterns of leaves or visions of mountains in his mind that day.
-\quarterfour He could have painted a far-off view of a sandy desert, but he had not the energy.
+\halfone At the end of a week or so| Niggle' tottered out to his| shed again.‖ He tried to climb the ladder, but it made his head giddy.| He sat and looked at the picture,' but there were no| patterns of leaves' or visions of mountains| in his mind that day.
+\quarterfour He could have painted a far-off view of a sandy desert,||| but he had not the energy.
 \end{itemize}
 
 \begin{itemize}
-\halfone Next day he felt a good deal better. He climbed the ladder, and began to paint. He had just begun to get into it again, when there came a knock on the door.
+\halfone Next day he felt a| good' deal| better.‖ He climbed the ladder,| and began to paint.' He had just begun| to get into it again,' when there came a knock| on the door.
 \end{itemize}
 
 “Damn!” said Niggle. But he might just as well have said “Come in!” politely, for the door opened all the same. This time a very tall man came in, a total stranger.
