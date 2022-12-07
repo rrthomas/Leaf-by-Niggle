@@ -50,17 +50,17 @@ At length Niggle’s time became really precious. His acquaintances in the dista
 \chant{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
-\halfone The autumn came, very wet and windy. The little painter was in his shed.
-\halftwo He was up on the ladder, trying to catch the gleam of the westering sun on the peak of a snow-mountain, which he had glimpsed just to the left of the leafy tip of one of the Tree’s branches.
-\halfone He knew that he would have to be leaving soon: perhaps early next year.
-\halftwo He could only just get the picture finished, and only so so, at that: there were some corners where he would not have time now to do more than hint at what he wanted.
+\halfone The autumn came, very| wet' and| windy.‖ The little painter was|| in' his| shed.
+\halftwo He was up on the ladder,| trying to catch the' gleam of the westering| sun on the peak of a‖ snow-mountain,| which he had glimpsed' just to the| left of the' leafy tip of| one of the Tree’s branches.
+\halfone He knew that he would| have to' be| leaving soon:‖ perhaps||| early next year.
+\halftwo He could only just get the picture finished,| and only' so so,| at that:‖ there were some corners| where he would not' have| time now to do' more than| hint at what he wanted.
 \end{itemize}
 
 \begin{itemize}
-\halfone There was a knock on the door. “Come in!” he said sharply, and climbed down the ladder. He stood on the floor twiddling his brush.
-\halftwo It was his neighbour, Parish: his only real neighbour, all other folk lived a long way off. Still, he did not like the man very much: partly because he was so often in trouble and in need of help; and also because he did not care about painting, but was very critical about gardening.
-\halfone When Parish looked at Niggle’s garden (which was often) he saw mostly weeds; and when he looked at Niggle’s pictures (which was seldom) he saw only green and grey patches and black lines, which seemed to him nonsensical.
-\halftwo He did not mind mentioning the weeds (a neighbourly duty), but he refrained from giving any opinion of the pictures. He thought this was very kind, and he did not realize that, even if it was kind, it was not kind enough. Help with the weeds (and perhaps praise for the pictures) would have been better.
+\halfone There was a knock on the door.| “Come' in!”| he said sharply,‖ and climbed down the ladder.| He stood' on the floor| twiddling' his| brush.
+\halftwo It was his neighbour, Parish:| his only real neighbour,' all other folk lived a| long way off.‖ Still, he did not like the man very much:| partly because he was so often in trouble' and in need of help;| and also because he did not care about painting,' but was very critical| about gardening.
+\halfone When Parish looked at Niggle’s garden| (which was' often)| he saw mostly weeds;‖ and when he looked at Niggle’s pictures| (which was' seldom)| he saw only green and grey patches' and black lines,| which seemed to him nonsensical.
+\halftwo He did not mind mentioning the weeds| (a neighbourly' duty),| but he refrained from giving any opinion of the pictures.‖ He thought this was very kind,| and he did not realize that,' even if it was kind, it was not kind enough.| Help with the weeds' (and perhaps praise for the pictures)| would have been better.
 \end{itemize}
 
 “Well, Parish, what is it?” said Niggle.
@@ -420,3 +420,5 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 “What did they say?”
 
 “They both laughed. Laughed—the Mountains rang with it!”
+
+% LocalWords:  Niggle’s
