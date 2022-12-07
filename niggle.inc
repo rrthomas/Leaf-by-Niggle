@@ -293,7 +293,7 @@ He walked downhill to the station briskly, but without hurry. The Porter spotted
 
 “I don’t think they have fixed its name yet,” said the Porter. “But you’ll find it all right.” He shut the door.
 
-\musicnote{2× speed}The train moved off at once. Niggle lay back in his seat. The little engine puffed along in a deep cutting with high green banks, roofed with blue sky. It did not seem very long before the engine gave a whistle, the brakes were put on, and the train stopped.\musicnote{1× speed} There was no station, and no signboard, only a flight of steps up the green embankment. At the top of the steps there was a wicket-gate in a trim hedge. By the gate stood his bicycle; at least, it looked like his, and there was a yellow label tied to the bars with NIGGLE written on it in large black letters.
+\musicnote{2× speed}The train moved off at once. Niggle lay back in his seat. The little engine puffed along in a deep cutting with high green banks, roofed with blue sky. It did not seem very long before the engine gave a whistle, the brakes were put on, and the train stopped.\musicnote{1× speed} There was no station, and no signboard, only a flight of steps up the green embankment. At the top of the steps there was a wicket-gate in a trim hedge. By the gate stood his bicycle; at least, it looked like his, and there was a yellow label tied to the bars with NIGGLE written on it in large black letters.\musicnote{Music ends}
 
 \section*{Pastoral}
 
