@@ -87,21 +87,21 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 \begin{itemize}
 \nochant So Niggle went.
-\halfone You see, it was awkward. Parish was his neighbour, and everyone else a long way off. Niggle had a bicycle, and Parish had not, and could not ride one.
-\halftwo Parish had a lame leg, a genuine lame leg which gave him a good deal of pain: that had to be remembered, as well as his sour expression and whining voice.
-\halfone Of course, Niggle had a picture and barely time to finish it. But it seemed that this was a thing that Parish had to reckon with and not Niggle.
-\halftwo Parish, however, did not reckon with pictures; and Niggle could not alter that. “Curse it!” he said to himself, as he got out his bicycle.
+\halfone You see, it was awkward.| Parish was his neighbour,' and everyone else| a long way off.‖ Niggle had a bicycle,| and Parish had not,'| and could' not| ride one.
+\halftwo Parish had a lame leg,| a genuine lame' leg which gave him| a good deal of pain:‖ that had to be remembered,| as well as his' sour ex|pression and' whining| voice.
+\halfone Of course,| Niggle had a picture and' barely time to| finish it.‖ But it seemed that this was a thing that| Parish had to reckon with'| and' not| Niggle.
+\halftwo Parish, however, did not reckon with pictures; and| Niggle' could not| alter that.‖ “Curse it!”‖ he said to himself, as he'|' got out his| bicycle.
 \end{itemize}
 
 \begin{itemize}
-\halfone It was wet and windy, and daylight was waning. “No more work for me today!” thought Niggle, and all the time that he was riding, he was either swearing to himself, or imagining the strokes of his brush on the mountain, and on the spray of leaves beside it, that he had first imagined in the spring.
-\halftwo His fingers twitched on the handlebars. Now he was out of the shed, he saw exactly the way in which to treat that shining spray which framed the distant vision of the mountain. But he had a sinking feeling in his heart, a sort of fear that he would never now get a chance to try it out.
+\halfone It was wet and windy, and| daylight' was| waning.‖ “No more work for me today!” thought Niggle,| and all the time that he was riding, he was either swearing to himself,' or imagining the strokes of his brush on the mountain,| and on the spray of leaves beside it,' that he had first imagined| in the spring.
+\halftwo His fingers twitched on the handlebars. Now he was out of the shed,| he saw exactly the way in which to treat' that shining spray which framed the distant vision| of the mountain.‖ But he had a sinking feeling in his heart,| a sort of fear that he would' never now get a| chance to' try it| out.
 \end{itemize}
 
 \begin{itemize}
-\halfone Niggle found the doctor, and he left a note at the builder’s. The office was shut, and the builder had gone home to his fireside. Niggle got soaked to the skin, and caught a chill himself.
-\halftwo The doctor did not set out as promptly as Niggle had done. He arrived next day, which was quite convenient for him, as by that time there were two patients to deal with, in neighbouring houses. Niggle was in bed, with a high temperature, and marvellous patterns of leaves and involved branches forming in his head and on the ceiling.
-\halftwo It did not comfort him to learn that Mrs. Parish had only had a cold, and was getting up. He turned his face to the wall and buried himself in leaves.
+\halfone Niggle found the doctor,| and he left a' note at the| builder’s.‖ The office was shut, and the builder had gone home to his fireside.| Niggle got soaked to the skin,' and caught a|' chill| himself.
+\halftwo The doctor did not set out as promptly as Niggle had done.| He arrived next day, which was quite convenient for him,' as by that time there were two patients to deal with,| in neighbouring houses.‖ Niggle was in bed,| with a high temperature,' and marvellous patterns of| leaves and involved branches' forming in his head and| on the ceiling.
+\quarterfour It did not comfort him to learn that Mrs. Parish had only had a cold, and was getting up.| He turned his face to the' wall and| buried him'self in| leaves.
 \end{itemize}
 
 He remained in bed some time. The wind went on blowing. It took away a good many more of Parish’s tiles, and some of Niggle’s as well: his own roof began to leak. The builder did not come. Niggle did not care; not for a day or two. Then he crawled out to look for some food (Niggle had no wife). Parish did not come round: the rain had got into his leg and made it ache; and his wife was busy mopping up water, and wondering if “that Mr. Niggle” had forgotten to call at the builder’s. Had she seen any chance of borrowing anything useful, she would have sent Parish round, leg or no leg; but she did not, so Niggle was left to himself.
