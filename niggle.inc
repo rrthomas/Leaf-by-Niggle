@@ -3,7 +3,8 @@
 
 There was once a little man called Niggle, who had a long journey to make. He did not want to go, indeed the whole idea was distasteful to him; but he could not get out of it. He knew he would have to start some time, but he did not hurry with his preparations.
 
-\chant{Leaf-Industrial-crop.pdf}
+\chant{Leaf-Flourish-Industrial-1-crop.pdf}
+\chantnobreak{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \nochant Niggle was a painter.
@@ -83,7 +84,8 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 “I am worried, very worried. I wish I was not lame,” said Parish.
 
-\chant{Leaf-Industrial-crop.pdf}
+\chant{Leaf-Flourish-Industrial-2-crop.pdf}
+\chantnobreak{Leaf-Industrial-crop.pdf}
 
 \begin{itemize}
 \nochant So Niggle went.
