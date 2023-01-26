@@ -279,6 +279,9 @@ There was a silence. Then the First Voice spoke to Niggle, quite close. “You h
 
 There was another silence. Niggle heard the Voices receding. “Well, I agree,” he heard the First Voice say in the distance. “Let him go on to the next stage. Tomorrow, if you like.”
 
+\chant{Leaf-Prince-crop.pdf}
+\pagebreak
+
 \section*{Transition from Purgatorial to Pastoral}
 
 Niggle woke up to find that his blinds were drawn, and his little cell was full of sunshine. He got up, and found that some comfortable clothes had been put out for him, not hospital uniform. After breakfast the doctor treated his sore hands, putting some salve on them that healed them at once. He gave Niggle some good advice, and a bottle of tonic (in case he needed it). In the middle of the morning they gave Niggle a biscuit and a glass of wine; and then they gave him a ticket.
