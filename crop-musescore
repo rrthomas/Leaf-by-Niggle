@@ -1,0 +1,4 @@
+#!/bin/sh
+file=${1%%.mscz}
+musescore --export-to "$file.pdf" "$file.mscz"
+pdfcrop "$file.pdf"

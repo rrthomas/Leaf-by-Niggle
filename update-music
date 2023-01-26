@@ -2,6 +2,6 @@
 # Reprocess the chants and update the score
 cp -a ~/Dropbox/Niggle/Leaf-*.mscz .
 for i in Leaf-*.mscz; do
-    crop-musescore "$i"
+    ./crop-musescore "$i"
 done
 latexmk score.tex
