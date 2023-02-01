@@ -1,5 +1,3 @@
-Leaf-*.pdf
-!Leaf-*-crop.pdf
 LEAF-BY-NIGGLE.pdf
 LeafByNiggle*
 Leaf\ by\ Niggle.mp3
@@ -27,7 +25,6 @@ score.pdf
 *.log
 *.lot
 *.maf
-*.mscz
 *.mtc
 *.mtc0
 *.nav
