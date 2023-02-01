@@ -92,7 +92,7 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 \halfone You see, it was awkward.| Parish was his neighbour,' and everyone else| a long way off.‖ Niggle had a bicycle,| and Parish had not,'| and could' not| ride one.
 \halftwo Parish had a lame leg,| a genuine lame' leg which gave him| a good deal of pain:‖ that had to be remembered,| as well as his' sour ex|pression and' whining| voice.
 \halfone Of course,| Niggle had a picture and' barely time to| finish it.‖ But it seemed that this was a thing that| Parish had to reckon with'| and' not| Niggle.
-\halftwo Parish, however, did not reckon with pictures; and| Niggle' could not| alter that.‖ “Curse it!”‖ he said to himself, as he'|' got out his| bicycle.
+\halftwo Parish, however, did not reckon with pictures; and| Niggle' could not| alter that.‖ “Curse it!”| he said to himself, as he'|' got out his| bicycle.
 \end{itemize}
 
 \begin{itemize}
