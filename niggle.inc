@@ -334,23 +334,41 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 
 Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
 
-“Of course!” he said. “What I need is Parish. There are lots of things about earth, plants, and trees that he knows and I don’t. This place cannot be left just as my private park. I need help and advice: I ought to have got it sooner.”
+\begin{itemize}
+\item “Of course!” he said. “What I need is Parish. There are lots of things about earth, plants, and trees that he knows and I don’t. This place cannot be left just as my private park. I need help and advice: I ought to have got it sooner.”
+\end{itemize}
 
-He got up and walked to the place where he had decided to begin work. He took off his coat. Then, down in a little sheltered hollow hidden from a further view, he saw a man looking round rather bewildered. He was leaning on a spade, but plainly did not know what to do. Niggle hailed him. “Parish!” he called.
+\begin{itemize}
+\item He got up and walked to the place where he had decided to begin work. He took off his coat. Then, down in a little sheltered hollow hidden from a further view, he saw a man looking round rather bewildered. He was leaning on a spade, but plainly did not know what to do. Niggle hailed him. “Parish!” he called.
+\end{itemize}
 
-Parish shouldered his spade and came up to him. He still limped a little. They did not speak, just nodded as they used to do, passing in the lane; but now they walked about together, arm in arm. Without talking, Niggle and Parish agreed exactly where to make the small house and garden, which seemed to be required.
+\begin{itemize}
+\item Parish shouldered his spade and came up to him. He still limped a little. They did not speak, just nodded as they used to do, passing in the lane; but now they walked about together, arm in arm. Without talking, Niggle and Parish agreed exactly where to make the small house and garden, which seemed to be required.
+\end{itemize}
 
-As they worked together, it became plain that Niggle was now the better of the two at ordering his time and getting things done. Oddly enough, it was Niggle who became most absorbed in building and gardening, while Parish often wandered about looking at trees, and especially at the Tree.
+\begin{itemize}
+\item As they worked together, it became plain that Niggle was now the better of the two at ordering his time and getting things done. Oddly enough, it was Niggle who became most absorbed in building and gardening, while Parish often wandered about looking at trees, and especially at the Tree.
+\end{itemize}
 
-One day Niggle was busy planting a quickset hedge, and Parish was lying on the grass near by, looking attentively at a beautiful and shapely little yellow flower growing in the green turf. Niggle had put a lot of them among the roots of his Tree long ago. Suddenly Parish looked up: his face was glistening in the sun, and he was smiling.
+\begin{itemize}
+\item One day Niggle was busy planting a quickset hedge, and Parish was lying on the grass near by, looking attentively at a beautiful and shapely little yellow flower growing in the green turf. Niggle had put a lot of them among the roots of his Tree long ago. Suddenly Parish looked up: his face was glistening in the sun, and he was smiling.
+\end{itemize}
 
-“This is grand!” he said. “I oughtn’t to be here, really. Thank you for putting in a word for me.”
+\begin{itemize}
+\item “This is grand!” he said. “I oughtn’t to be here, really. Thank you for putting in a word for me.”
+\end{itemize}
 
-“Nonsense,” said Niggle. “I don’t remember what I said, but anyway it was not nearly enough.”
+\begin{itemize}
+\item “Nonsense,” said Niggle. “I don’t remember what I said, but anyway it was not nearly enough.”
+\end{itemize}
 
-“Oh yes, it was,” said Parish. “It got me out a lot sooner. That Second Voice, you know: he had me sent here; he said you had asked to see me. I owe it to you.”
+\begin{itemize}
+\item “Oh yes, it was,” said Parish. “It got me out a lot sooner. That Second Voice, you know: he had me sent here; he said you had asked to see me. I owe it to you.”
+\end{itemize}
 
-“No. You owe it to the Second Voice,” said Niggle. “We both do.”
+\begin{itemize}
+\item “No. You owe it to the Second Voice,” said Niggle. “We both do.”
+\end{itemize}
 
 They went on living and working together: I do not know how long. It is no use denying that at first they occasionally disagreed, especially when they got tired. For at first they did sometimes get tired. They found that they had both been provided with tonics. Each bottle had the same label: \emph{A few drops to be taken in water from the Spring, before resting}.
 
@@ -358,29 +376,53 @@ They found the Spring in the heart of the Forest; only once long ago had Niggle 
 
 As their work drew to an end they allowed themselves more and more time for walking about, looking at the trees, and the flowers, and the lights and shapes, and the lie of the land. Sometimes they sang together; but Niggle found that he was now beginning to turn his eyes, more and more often, towards the Mountains.
 
-The time came when the house in the hollow, the garden, the grass, the forest, the lake, and all the country was nearly complete, in its own proper fashion. The Great Tree was in full blossom.
+\begin{itemize}
+\item The time came when the house in the hollow, the garden, the grass, the forest, the lake, and all the country was nearly complete, in its own proper fashion. The Great Tree was in full blossom.
+\end{itemize}
 
-“We shall finish this evening,” said Parish one day. “After that we will go for a really long walk.”
+\begin{itemize}
+\item “We shall finish this evening,” said Parish one day. “After that we will go for a really long walk.”
+\end{itemize}
 
-They set out next day, and they walked until they came right through the distances to the Edge. It was not visible, of course: there was no line, or fence, or wall; but they knew that they had come to the margin of that country. They saw a man, he looked like a shepherd; he was walking towards them, down the grass-slopes that led up into the Mountains.
+\begin{itemize}
+\item They set out next day, and they walked until they came right through the distances to the Edge. It was not visible, of course: there was no line, or fence, or wall; but they knew that they had come to the margin of that country. They saw a man, he looked like a shepherd; he was walking towards them, down the grass-slopes that led up into the Mountains.
+\end{itemize}
 
-“Do you want a guide?” he asked. “Do you want to go on?”
+\begin{itemize}
+\item “Do you want a guide?” he asked. “Do you want to go on?”
+\end{itemize}
 
-For a moment a shadow fell between Niggle and Parish, for Niggle knew that he did now want to go on, and (in a sense) ought to go on; but Parish did not want to go on, and was not yet ready to go.
+\begin{itemize}
+\item For a moment a shadow fell between Niggle and Parish, for Niggle knew that he did now want to go on, and (in a sense) ought to go on; but Parish did not want to go on, and was not yet ready to go.
+\end{itemize}
 
-“I must wait for my wife,” said Parish to Niggle. “She’d be lonely. I rather gathered that they would send her after me, some time or other, when she was ready, and when I had got things ready for her. The house is finished now, as well as we could make it; but I should like to show it to her. She’ll be able to make it better, I expect: more homely. I hope she’ll like this country, too.” He turned to the shepherd. “Are you a guide?” he asked. “Could you tell me the name of this country?”
+\begin{itemize}
+\item “I must wait for my wife,” said Parish to Niggle. “She’d be lonely. I rather gathered that they would send her after me, some time or other, when she was ready, and when I had got things ready for her. The house is finished now, as well as we could make it; but I should like to show it to her. She’ll be able to make it better, I expect: more homely. I hope she’ll like this country, too.” He turned to the shepherd. “Are you a guide?” he asked. “Could you tell me the name of this country?”
+\end{itemize}
 
-“Don’t you know?” said the man. “It is Niggle’s Country. It is Niggle’s Picture, or most of it: a little of it is now Parish’s Garden.”
+\begin{itemize}
+\item “Don’t you know?” said the man. “It is Niggle’s Country. It is Niggle’s Picture, or most of it: a little of it is now Parish’s Garden.”
+\end{itemize}
 
-“Niggle’s Picture!” said Parish in astonishment. “Did you think of all this, Niggle? I never knew you were so clever. Why didn’t you tell me?”
+\begin{itemize}
+\item “Niggle’s Picture!” said Parish in astonishment. “Did you think of all this, Niggle? I never knew you were so clever. Why didn’t you tell me?”
+\end{itemize}
 
-“He tried to tell you long ago,” said the man; “but you would not look. He had only got canvas and paint in those days, and you wanted to mend your roof with them. This is what you and your wife used to call Niggle’s Nonsense, or That Daubing.”
+\begin{itemize}
+\item “He tried to tell you long ago,” said the man; “but you would not look. He had only got canvas and paint in those days, and you wanted to mend your roof with them. This is what you and your wife used to call Niggle’s Nonsense, or That Daubing.”
+\end{itemize}
 
-“But it did not look like this then, not real,” said Parish.
+\begin{itemize}
+\item “But it did not look like this then, not real,” said Parish.
+\end{itemize}
 
-“No, it was only a glimpse then,” said the man; “but you might have caught the glimpse, if you had ever thought it worth while to try.”
+\begin{itemize}
+\item “No, it was only a glimpse then,” said the man; “but you might have caught the glimpse, if you had ever thought it worth while to try.”
+\end{itemize}
 
-“I did not give you much chance,” said Niggle. “I never tried to explain. I used to call you Old Earth-grubber. But what does it matter? We have lived and worked together now. Things might have been different, but they could not have been better. All the same, I am afraid I shall have to be going on. We shall meet again, I expect: there must be many more things we can do together. Good-bye!” He shook Parish’s hand warmly: a good, firm, honest hand it seemed. He turned and looked back for a moment. The blossom on the Great Tree was shining like flame. All the birds were flying in the air and singing. Then he smiled, and nodded to Parish, and went off with the shepherd.
+\begin{itemize}
+\item “I did not give you much chance,” said Niggle. “I never tried to explain. I used to call you Old Earth-grubber. But what does it matter? We have lived and worked together now. Things might have been different, but they could not have been better. All the same, I am afraid I shall have to be going on. We shall meet again, I expect: there must be many more things we can do together. Good-bye!” He shook Parish’s hand warmly: a good, firm, honest hand it seemed. He turned and looked back for a moment. The blossom on the Great Tree was shining like flame. All the birds were flying in the air and singing. Then he smiled, and nodded to Parish, and went off with the shepherd.
+\end{itemize}
 
 He was going to learn about sheep, and the high pasturages, and look at a wider sky, and walk ever further and further towards the Mountains, always uphill. Beyond that I cannot guess what became of him. Even little Niggle in his old home could glimpse the Mountains far away, and they got into the borders of his picture; but what they are really like, and what lies beyond them, only those can say who have climbed them.
 
