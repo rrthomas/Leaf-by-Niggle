@@ -38,7 +38,7 @@ He could not get rid of his kind heart. “I wish I was more strong-minded!” h
 
 \begin{itemize}
 \halftwo However,|| there was no public pension.‖ And one thing he could see:| it would need some concentration,' some \emph{work},| hard uninterrupted work,' to finish the picture;| even at its present size.
-\halfone He rolled up his sleeves,| and began' to| concentrate.‖ He tried for several days not to bother about other things.| But there came a' tremendous |crop' of| interruptions.
+\halfone He rolled up his sleeves,| and began' to| concentrate.‖ He tried for several days not to bother about other things.| But there came a' tremendous| crop' of| interruptions.
 \halftwo Things went wrong in his house;| he had to go' and serve on a| jury in the town;‖ a distant friend fell ill;| Mr. Parish was laid up with lumbago; and'| visitors' kept on| coming.
 \halfone It was springtime, and they wanted a free tea in the country:| Niggle lived in a' pleasant little house,| miles away from the town.‖ He cursed them in his heart,| but he could not deny that he had invited them himself,' away back in the winter,| when he had not thought it an “interruption”' to visit the shops| and have tea with acquaintances in the town.
 \halftwo He tried to harden his heart; but it was| not' a| success.‖ There were many things that he had not the face to say no to,| whether he thought them' duties or not;| and there were some things he was' compelled to do,| whatever he thought.
