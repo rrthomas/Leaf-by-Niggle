@@ -37,7 +37,7 @@ He could not get rid of his kind heart. “I wish I was more strong-minded!” h
 \end{itemize}
 
 \begin{itemize}
-\halftwo However,|| there was no public pension.‖ And one thing he could see:| it would need some concentration,' some work,| hard uninterrupted work,' to finish the picture;| even at its present size.
+\halftwo However,|| there was no public pension.‖ And one thing he could see:| it would need some concentration,' some \emph{work},| hard uninterrupted work,' to finish the picture;| even at its present size.
 \halfone He rolled up his sleeves,| and began' to| concentrate.‖ He tried for several days not to bother about other things.| But there came a' tremendous |crop' of| interruptions.
 \halftwo Things went wrong in his house;| he had to go' and serve on a| jury in the town;‖ a distant friend fell ill;| Mr. Parish was laid up with lumbago; and'| visitors' kept on| coming.
 \halfone It was springtime, and they wanted a free tea in the country:| Niggle lived in a' pleasant little house,| miles away from the town.‖ He cursed them in his heart,| but he could not deny that he had invited them himself,' away back in the winter,| when he had not thought it an “interruption”' to visit the shops| and have tea with acquaintances in the town.
@@ -74,9 +74,9 @@ Niggle had meant to say something like that himself, but he had missed his chanc
 
 “Quite so,” said Niggle with a sigh: one of those sighs that are a private comment, but which are not made quite inaudible. “What can I do for you?”
 
-“My wife has been ill for some days, and I am getting worried,” said Parish. “And the wind has blown half the tiles off my roof, and water is pouring into the bedroom. I think I ought to get the doctor. And the builders, too, only they take so long to come. I was wondering if you had any wood and canvas you could spare, just to patch me up” and see me through for a day or two.” Now he did look at the picture.
+“My wife has been ill for some days, and I am getting worried,” said Parish. “And the wind has blown half the tiles off my roof, and water is pouring into the bedroom. I think I ought to get the doctor. And the builders, too, only they take so long to come. I was wondering if you had any wood and canvas you could spare, just to patch me up and see me through for a day or two.” Now he did look at the picture.
 
-“Dear, dear!” said Niggle. “You are unlucky. I hope it is no more than a cold that your wife has got. I’ll come round presently, and help you move the patient downstairs.”
+“Dear, dear!” said Niggle. “You \emph{are} unlucky. I hope it is no more than a cold that your wife has got. I’ll come round presently, and help you move the patient downstairs.”
 
 “Thank you very much,” said Parish, rather coolly. “But it is not a cold, it is a fever. I should not have bothered you for a cold. And my wife is in bed downstairs already. I can’t get up and down with trays, not with my leg. But I see you are busy. Sorry to have troubled you. I had rather hoped you might have been able to spare the time to go for the doctor, seeing how I’m placed: and the builder too, if you really have no canvas you can spare.”
 
@@ -135,7 +135,7 @@ He remained in bed some time. The wind went on blowing. It took away a good many
 
 “But I’m not a builder. Parish ought to make a complaint to the Town Council, and get help from the Emergency Service.”
 
-“They are busy with worse damage than any up here,” said the Inspector. “There has been a flood in the valley, and many families are homeless. You should have helped your neighbour to make temporary repairs and, prevent the damage from getting more costly to mend than necessary. That is the law. There is plenty of material here: canvas, wood, waterproof paint.”
+“They are busy with worse damage than any up here,” said the Inspector. “There has been a flood in the valley, and many families are homeless. You should have helped your neighbour to make temporary repairs and prevent the damage from getting more costly to mend than necessary. That is the law. There is plenty of material here: canvas, wood, waterproof paint.”
 
 “Where?” asked Niggle indignantly.
 
@@ -151,7 +151,9 @@ He remained in bed some time. The wind went on blowing. It took away a good many
 
 Niggle stumbled down from the ladder. His fever seemed to have come on again, and his head was swimming; he felt cold all over.
 
-“Driver? Driver?” he chattered. “Driver of what?” “You, and your carriage,” said the man. “The carriage was ordered long ago. It has come at last. It’s waiting. You start today on your journey, you know.”
+“Driver? Driver?” he chattered. “Driver of what?”
+
+“You, and your carriage,” said the man. “The carriage was ordered long ago. It has come at last. It’s waiting. You start today on your journey, you know.”
 
 “There now!” said the Inspector. “You’ll have to go; but it’s a bad way to start on your journey, leaving your jobs undone. Still, we can at least make some use of this canvas now.”
 
@@ -332,96 +334,119 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 \halftwo They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| \naturalword{picture}.
 \end{itemize}
 
-Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree-a variation of the Great Tree, but quite individual, or it would be with a little more attention-and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
+Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree—a variation of the Great Tree, but quite individual, or it would be with a little more attention—and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
+
+\bigskip
+\chantnobreak{Leaf-Pastoral full-crop.pdf}
 
 \begin{itemize}
-\item “Of course!” he said. “What I need is Parish. There are lots of things about earth, plants, and trees that he knows and I don’t. This place cannot be left just as my private park. I need help and advice: I ought to have got it sooner.”
+\halfone “Of course!” he said.| “What I' need is| Parish.‖ There are| lots of things' about| earth, plants, and' trees that| he knows and I don’t.
+\halftwo This place cannot be left| just as my' private| park.‖ I need help and advice:| I ought to' have| got' it| \sharpword{sooner}.”
 \end{itemize}
 
 \begin{itemize}
-\item He got up and walked to the place where he had decided to begin work. He took off his coat. Then, down in a little sheltered hollow hidden from a further view, he saw a man looking round rather bewildered. He was leaning on a spade, but plainly did not know what to do. Niggle hailed him. “Parish!” he called.
+\halfone He got up and| walked to the place' where he had decided to| begin work.‖ He|| took off' his| coat.
+\halftwo Then, down in a little sheltered hollow hidden from a further view, he| saw a man' looking round| rather bewildered.‖ He was leaning on a| spade,' but plainly| did not' know what| \naturalword{to} do.
+\quarterfour Niggle hailed him.|| “Parish!”' he| \naturalword{called}.
 \end{itemize}
 
 \begin{itemize}
-\item Parish shouldered his spade and came up to him. He still limped a little. They did not speak, just nodded as they used to do, passing in the lane; but now they walked about together, arm in arm. Without talking, Niggle and Parish agreed exactly where to make the small house and garden, which seemed to be required.
+\halfone Parish shouldered his spade| and came' up to him.| He still limped a little.‖ They did not speak,| just nodded as they used to do,' passing in the lane;| but now they' walked about together,| arm in arm.
+\halftwo Without talking, Niggle and Parish agreed| exactly where to make the'|‖||' small house and garden,| \sharpword{which} seemed to be required.
 \end{itemize}
 
 \begin{itemize}
-\item As they worked together, it became plain that Niggle was now the better of the two at ordering his time and getting things done. Oddly enough, it was Niggle who became most absorbed in building and gardening, while Parish often wandered about looking at trees, and especially at the Tree.
+\halfone As they| worked' to|gether,‖ it became plain that| Niggle was now' the better of the two| at ordering his time' and getting things| done.
+\halftwo Oddly enough, it was| Niggle who became' most absorbed in| building and gardening,‖ while| Parish often' wandered about| looking at trees,' and especially at| \sharpword{the} Tree.
 \end{itemize}
 
 \begin{itemize}
-\item One day Niggle was busy planting a quickset hedge, and Parish was lying on the grass near by, looking attentively at a beautiful and shapely little yellow flower growing in the green turf. Niggle had put a lot of them among the roots of his Tree long ago. Suddenly Parish looked up: his face was glistening in the sun, and he was smiling.
+\halfone One day| Niggle was busy' planting a quickset hedge,| and Parish was lying on the grass near by,‖ looking attentively| at a beautiful' and shapely| little yellow flower' growing in| the green turf.
+\quartertwo Niggle had put a lot of them| among the' roots of his| Tree' long| ago.
+\halfone Suddenly| Parish' looked| up:‖ his face| was glistening' in the| sun,' and he was| smiling.
+\end{itemize}
+
+\chant{Leaf-Pastoral full-crop.pdf}
+
+\begin{itemize}
+\halftwo “This is| grand!”' he| said.‖ “I oughtn’t to be here,| really.'| Thank you for' putting in a| \sharpword{word} for me.”
 \end{itemize}
 
 \begin{itemize}
-\item “This is grand!” he said. “I oughtn’t to be here, really. Thank you for putting in a word for me.”
+\halfone “Nonsense,”| said'| Niggle.‖ “I don’t remember what I said,| but anyway' it was not|| nearly enough.”
 \end{itemize}
 
 \begin{itemize}
-\item “Nonsense,” said Niggle. “I don’t remember what I said, but anyway it was not nearly enough.”
+\halftwo “Oh yes, it| was,”' said| Parish.‖ “It got me out a lot sooner.| That Second Voice,' you know:| he had me sent here;' he said you had asked to see me.| \sharpword{I} owe it to you.”
 \end{itemize}
 
 \begin{itemize}
-\item “Oh yes, it was,” said Parish. “It got me out a lot sooner. That Second Voice, you know: he had me sent here; he said you had asked to see me. I owe it to you.”
-\end{itemize}
-
-\begin{itemize}
-\item “No. You owe it to the Second Voice,” said Niggle. “We both do.”
+\quarterfour “No.| You owe it to the' Second Voice,”| said Niggle.' “We| \sharpword{both} do.”
 \end{itemize}
 
 They went on living and working together: I do not know how long. It is no use denying that at first they occasionally disagreed, especially when they got tired. For at first they did sometimes get tired. They found that they had both been provided with tonics. Each bottle had the same label: \emph{A few drops to be taken in water from the Spring, before resting}.
 
-They found the Spring in the heart of the Forest; only once long ago had Niggle imagined it, but he had never drawn it. Now he perceived that it was the source of the lake that glimmered, far away and the nourishment of all that grew in the country. The few drops made the water astringent, rather bitter, but invigorating; and it cleared the head. After drinking they rested alone; and then they got up again and things went on merrily. At such times Niggle would think of wonderful new flowers and plants, and Parish always knew exactly how to set them and where they would do best. Long before the tonics were finished they had ceased to need them. Parish lost his limp.
+They found the Spring in the heart of the Forest; only once long ago had Niggle imagined it, but he had never drawn it. Now he perceived that it was the source of the lake that glimmered, far away and the nourishment of all that grew in the country. The few drops made the water astringent, rather bitter, but invigorating; and it cleared the head. After driking they rested alone; and then they got up again and things went on merrily. At such times Niggle would think of wonderful new flowers and plants, and Parish always knew exactly how to set them and where they would do best. Long before the tonics were finished they had ceased to need them. Parish lost his limp.
 
 As their work drew to an end they allowed themselves more and more time for walking about, looking at the trees, and the flowers, and the lights and shapes, and the lie of the land. Sometimes they sang together; but Niggle found that he was now beginning to turn his eyes, more and more often, towards the Mountains.
 
 \begin{itemize}
-\item The time came when the house in the hollow, the garden, the grass, the forest, the lake, and all the country was nearly complete, in its own proper fashion. The Great Tree was in full blossom.
+\halfone The time came when the house in the hollow,| the garden,' the grass,| the forest,‖ the lake,| and all the country' was nearly complete,| in its own' proper fashion.| The Great Tree was in full blossom.
 \end{itemize}
 
 \begin{itemize}
-\item “We shall finish this evening,” said Parish one day. “After that we will go for a really long walk.”
+\halftwo “We shall finish this evening,” said| Parish' one| day.‖ “After that we will| go' for a| really' long| \sharpword{walk}.”
+\end{itemize}
+
+\chant{Leaf-Pastoral full-crop.pdf}
+
+\begin{itemize}
+\halfone They set out next day,| and they walked until they came' right through the distances| to the Edge.‖ It was not visible, of course:| there was no line,' or fence,| or wall;' but they knew that they had come to the| margin of that country.
+\halftwo They saw a man, he| looked like' a| shepherd;‖ he was walking towards them,| down the' grass-slopes that| led up' into the| \naturalword{Mountains}.
 \end{itemize}
 
 \begin{itemize}
-\item They set out next day, and they walked until they came right through the distances to the Edge. It was not visible, of course: there was no line, or fence, or wall; but they knew that they had come to the margin of that country. They saw a man, he looked like a shepherd; he was walking towards them, down the grass-slopes that led up into the Mountains.
+\quarterfour “Do you want a guide?” he asked. “Do you|| want to' go| \sharpword{on}?”
 \end{itemize}
 
 \begin{itemize}
-\item “Do you want a guide?” he asked. “Do you want to go on?”
+\halfone For a moment a| shadow fell between' Niggle and Parish,| for Niggle knew that he did now want to go on, and (in a sense) ought to go on;‖ but Parish did| not want' to go on,| and was not yet' ready| to go.
 \end{itemize}
 
 \begin{itemize}
-\item For a moment a shadow fell between Niggle and Parish, for Niggle knew that he did now want to go on, and (in a sense) ought to go on; but Parish did not want to go on, and was not yet ready to go.
+\halftwo “I must wait for my wife,” said| Parish' to| Niggle.‖ “She’d be lonely.| I rather gathered that they would send her after me,' some time or other,| when she was ready,' and when I had got things| \naturalword{ready} for her.
+\halfone The house is finished now,| as well as we could make it;' but I should like to| show it to her.‖ She’ll be able to make it| better,' I expect:| more homely.' I hope she’ll like this country,| too.”
+\halftwo He turned to the| shepherd.' “Are you a| guide?”‖ he asked.| “Could you' tell me| the name' of this| \naturalword{country}?”
 \end{itemize}
 
 \begin{itemize}
-\item “I must wait for my wife,” said Parish to Niggle. “She’d be lonely. I rather gathered that they would send her after me, some time or other, when she was ready, and when I had got things ready for her. The house is finished now, as well as we could make it; but I should like to show it to her. She’ll be able to make it better, I expect: more homely. I hope she’ll like this country, too.” He turned to the shepherd. “Are you a guide?” he asked. “Could you tell me the name of this country?”
+\halfone “Don’t you know?”| said' the| man.‖ “It is Niggle’s Country.| It is Niggle’s Picture,' or most of it:| a little of it' is now| Parish’s Garden.”
 \end{itemize}
 
 \begin{itemize}
-\item “Don’t you know?” said the man. “It is Niggle’s Country. It is Niggle’s Picture, or most of it: a little of it is now Parish’s Garden.”
+\halftwo “Niggle’s| Picture!”' said Parish in| astonishment.‖ “Did you think of all this, Niggle?| I never' knew you were| so clever.' Why didn’t you| tell \sharpword{me}?”
 \end{itemize}
 
 \begin{itemize}
-\item “Niggle’s Picture!” said Parish in astonishment. “Did you think of all this, Niggle? I never knew you were so clever. Why didn’t you tell me?”
+\halfone “He tried to tell you| long ago,”' said the man;| “but you would not look.‖ He had only got canvas and| paint in those days,' and you wanted to mend your roof with them.| This is what you and your wife used to call' Niggle’s Nonsense, or| That Daubing.”
 \end{itemize}
 
 \begin{itemize}
-\item “He tried to tell you long ago,” said the man; “but you would not look. He had only got canvas and paint in those days, and you wanted to mend your roof with them. This is what you and your wife used to call Niggle’s Nonsense, or That Daubing.”
+\quarterfour “But it did not look like this then,|| not real,”' said| \sharpword{Parish}.
+\end{itemize}
+
+\chant{Leaf-Pastoral full-crop.pdf}
+
+\begin{itemize}
+\halfone “No, it was only a| glimpse then,”' said the| man;‖ “but you might have| caught the' glimpse,| if you had ever' thought it| worth while to try.”
 \end{itemize}
 
 \begin{itemize}
-\item “But it did not look like this then, not real,” said Parish.
-\end{itemize}
-
-\begin{itemize}
-\item “No, it was only a glimpse then,” said the man; “but you might have caught the glimpse, if you had ever thought it worth while to try.”
-\end{itemize}
-
-\begin{itemize}
-\item “I did not give you much chance,” said Niggle. “I never tried to explain. I used to call you Old Earth-grubber. But what does it matter? We have lived and worked together now. Things might have been different, but they could not have been better. All the same, I am afraid I shall have to be going on. We shall meet again, I expect: there must be many more things we can do together. Good-bye!” He shook Parish’s hand warmly: a good, firm, honest hand it seemed. He turned and looked back for a moment. The blossom on the Great Tree was shining like flame. All the birds were flying in the air and singing. Then he smiled, and nodded to Parish, and went off with the shepherd.
+\halftwo “I did not| give you' much chance,”| said Niggle.‖ “I never| tried to' explain.| I used to' call you| \sharpword{Old} Earth-grubber.
+\halfone But what does it matter?| We have lived' and worked| together now.‖ Things might have been| different,' but they| could not have' been| better.
+\halftwo All the same, I am afraid I shall| have to be' going| on.‖ We shall meet again, I expect:| there must be' many more| things we can' do together.| \sharpword{Good}-bye!”
+\halfone He shook Parish’s hand| warmly:' a good, firm,| honest hand it seemed.‖ He| turned and' looked| back for' a| moment.
+\halftwo The blossom on the| Great Tree was' shining| like flame.‖ All the birds were flying in the air and singing.| Then he smiled,' and nodded to Parish,| and went off' with the| \sharpword{shepherd}.
 \end{itemize}
 
 He was going to learn about sheep, and the high pasturages, and look at a wider sky, and walk ever further and further towards the Mountains, always uphill. Beyond that I cannot guess what became of him. Even little Niggle in his old home could glimpse the Mountains far away, and they got into the borders of his picture; but what they are really like, and what lies beyond them, only those can say who have climbed them.
@@ -440,7 +465,7 @@ He was going to learn about sheep, and the high pasturages, and look at a wider 
 
 “Then you don’t think painting is worth anything, not worth preserving, or improving, or even making use of?”
 
-“Of course, painting has uses,” said Tompkins. “But you couldn’t make use of his painting. There is plenty of scope for bold young men not afraid of new ideas and new methods. None for this old-fashioned stuff. Private day-dreaming. He could not have designed a telling poster to save his life. Always fiddling with leaves and flowers. I asked him why, once. He said he thought they were pretty! Can you believe it? He said pretty! ‘What, digestive and genital organs of plants?’ I said to him; and he had nothing to answer. Silly footler.”
+“Of course, painting has uses,” said Tompkins. “But you couldn’t make use of his painting. There is plenty of scope for bold young men not afraid of new ideas and new methods. None for this old-fashioned stuff. Private day-dreaming. He could not have designed a telling poster to save his life. Always fiddling with leaves and flowers. I asked him why, once. He said he thought they were pretty! Can you believe it? He said \emph{pretty}! ‘What, digestive and genital organs of plants?’ I said to him; and he had nothing to answer. Silly footler.”
 
 “Footler,” sighed Atkins. “Yes, poor little man, he never finished anything. Ah well, his canvases have been put to ‘better uses,’ since he went. But I am not sure, Tompkins. You remember that large one, the one they used to patch the damaged house next door to his, after the gales and floods? I found a corner of it tom off, lying in a field. It was damaged, but legible: a mountain-peak and a spray of leaves. I can’t get it out of my mind.”
 
@@ -462,7 +487,7 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 
 “No, that is so,” said the First Voice. “I think we shall have to give the region a name. What do you propose?”
 
-“The Porter settled that some time ago,” said the Second Voice. “Train for Niggle’s Parish in the bay: he has shouted that for a long while now. Niggle’s Parish. I sent a message to both of them to tell them.”
+“The Porter settled that some time ago,” said the Second Voice. “\emph{Train for Niggle’s Parish in the bay}: he has shouted that for a long while now. Niggle’s Parish. I sent a message to both of them to tell them.”
 
 “What did they say?”
 
