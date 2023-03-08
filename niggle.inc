@@ -252,7 +252,7 @@ Niggle was lying in the dark, resting completely; so that, as he had not been ei
 \chant{Leaf-Voices-crop.pdf}
 
 \begin{itemize}
-\halfone “Yes, that is a point;” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
+\halfone “Yes, that is a point,” said the First Voice;| “but rather' small.| I think you will find Niggle often merely forgot.‖ Things he had to do for Parish he put out of his mind as a| nui'sance| he' had| done with.”
 \end{itemize}
 
 \begin{itemize}
