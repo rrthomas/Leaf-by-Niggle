@@ -33,7 +33,7 @@ He could not get rid of his kind heart. “I wish I was more strong-minded!” h
 \begin{itemize}
 \halfone One day,| Niggle stood a little way off from his picture' and considered it with unusual attention| and detachment.‖ He could not| make up his mind' what he thought about it,| and wished he had some friend' who would tell him| what to think.
 \halftwo Actually it seemed to him wholly unsatisfactory,| and yet very lovely,' the only really beautiful picture| in the world.‖
-\halfone What he would have liked at that moment would have been| to see himself walk in,' and slap him on the back,| and say (with obvious sincerity):‖ “Absolutely magnificent!| I see exactly what you are getting at.| Do get on with it,' and don’t bother about anything else!| We will arrange for a public pension, so that you need not.”
+\halfone What he would have liked at that moment would have been| to see himself walk in,' and slap him on the back,| and say (with obvious sincerity):‖ “Absolutely magnificent!| I see exactly what you are getting at.' Do get on with it,| and don’t bother about anything else!' We will arrange for a public pension,| so that you need not.”
 \end{itemize}
 
 \begin{itemize}
