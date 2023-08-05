@@ -179,7 +179,7 @@ Niggle felt very ill, and fainted on the platform. They put him in an ambulance 
 
 \begin{itemize}
 \halfone He did not like the treatment at all.| The medicine they' gave him| was bitter.‖ The officials and attendants were unfriendly, silent, and strict;| and he' never saw anyone else,| except a very severe doctor,' who visited him occasionally.| It was more like being in a prison than in a hospital.
-\halftwo He had to work hard, at stated hours:| at digging,' carpentry,| and painting bare boards all one' plain colour.‖ He was never allowed outside, and the windows all looked inwards.| They kept him in the dark' for hours at a stretch, |“to do some thinking,”' they said.| He lost count of time.
+\halftwo He had to work hard, at stated hours:| at digging,' carpentry,| and painting bare boards all one' plain colour.‖ He was never allowed outside, and the windows all looked inwards.| They kept him in the dark' for hours at a stretch,| “to do some thinking,”' they said.| He lost count of time.
 \halftwo He did not even begin to feel better,| not if that could be' judged by| whether he felt any pleasure in' doing anything.‖ He did not,||| not even in getting into bed.
 \end{itemize}
 
