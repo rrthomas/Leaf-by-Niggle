@@ -457,7 +457,7 @@ He was going to learn about sheep, and the high pasturages, and look at a wider 
 
 “Oh, I don’t know,” said Atkins, who was nobody of importance, just a schoolmaster. “I am not so sure: it depends on what you mean by use.”
 
-“No practical or economic use,” said Tompkins. “I dare say he could have been made into a serviceable cog of some sort, if you schoolmasters knew your business. But you don’t, and so we get useless people of his sort; If I ran this country I should put him and his like to some job that they’re fit for, washing dishes in a communal kitchen or something, and I should see that they did it properly. Or I would put them away. I should have put \emph{him} away long ago.”
+“No practical or economic use,” said Tompkins. “I dare say he could have been made into a serviceable cog of some sort, if you schoolmasters knew your business. But you don’t, and so we get useless people of his sort; if I ran this country I should put him and his like to some job that they’re fit for, washing dishes in a communal kitchen or something, and I should see that they did it properly. Or I would put them away. I should have put \emph{him} away long ago.”
 
 “Put him away? You mean you’d have made him start on the journey before his time?”
 
@@ -467,7 +467,7 @@ He was going to learn about sheep, and the high pasturages, and look at a wider 
 
 “Of course, painting has uses,” said Tompkins. “But you couldn’t make use of his painting. There is plenty of scope for bold young men not afraid of new ideas and new methods. None for this old-fashioned stuff. Private day-dreaming. He could not have designed a telling poster to save his life. Always fiddling with leaves and flowers. I asked him why, once. He said he thought they were pretty! Can you believe it? He said \emph{pretty}! ‘What, digestive and genital organs of plants?’ I said to him; and he had nothing to answer. Silly footler.”
 
-“Footler,” sighed Atkins. “Yes, poor little man, he never finished anything. Ah well, his canvases have been put to ‘better uses,’ since he went. But I am not sure, Tompkins. You remember that large one, the one they used to patch the damaged house next door to his, after the gales and floods? I found a corner of it tom off, lying in a field. It was damaged, but legible: a mountain-peak and a spray of leaves. I can’t get it out of my mind.”
+“Footler,” sighed Atkins. “Yes, poor little man, he never finished anything. Ah well, his canvases have been put to ‘better uses,’ since he went. But I am not sure, Tompkins. You remember that large one, the one they used to patch the damaged house next door to his, after the gales and floods? I found a corner of it torn off, lying in a field. It was damaged, but legible: a mountain-peak and a spray of leaves. I can’t get it out of my mind.”
 
 “Out of your what?” said Tompkins.
 
