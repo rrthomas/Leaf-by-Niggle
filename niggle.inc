@@ -334,6 +334,7 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 \halftwo They did not seem to belong to the picture,| or only as a link to' something| else,‖ a glimpse through the trees of something different,| a further' stage:| another'| \naturalword{picture}.
 \end{itemize}
 
+\onlyscore{\enlargethispage{2\baselineskip}}
 Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree—a variation of the Great Tree, but quite individual, or it would be with a little more attention—and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
 
 \onlyscore{\bigskip}
