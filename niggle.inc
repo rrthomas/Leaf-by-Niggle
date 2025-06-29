@@ -341,7 +341,7 @@ Niggle walked about, but he was not merely pottering. He was looking round caref
 
 \begin{itemize}
 \halfone “Of course!” he said.| “What I' need is| Parish.‖ There are| lots of things' about| earth, plants, and' trees that| he knows and I don’t.
-\halftwo This place cannot be left| just as my' private| park.‖ I need help and advice:| I ought to' have| got' it| \sharpword{sooner}.”
+\halftwo \onlyscore{“}This place cannot be left| just as my' private| park.‖ I need help and advice:| I ought to' have| got' it| \sharpword{sooner}.”
 \end{itemize}
 
 \begin{itemize}
@@ -443,8 +443,8 @@ As their work drew to an end they allowed themselves more and more time for walk
 
 \begin{itemize}
 \halftwo “I did not| give you' much chance,”| said Niggle.‖ “I never| tried to' explain.| I used to' call you| \sharpword{Old} Earth-grubber.
-\halfone But what does it matter?| We have lived' and worked| together now.‖ Things might have been| different,' but they| could not have' been| better.
-\halftwo All the same, I am afraid I shall| have to be' going| on.‖ We shall meet again, I expect:| there must be' many more| things we can' do together.| \sharpword{Good}-bye!”
+\halfone \onlyscore{“}But what does it matter?| We have lived' and worked| together now.‖ Things might have been| different,' but they| could not have' been| better.
+\halftwo \onlyscore{“}All the same, I am afraid I shall| have to be' going| on.‖ We shall meet again, I expect:| there must be' many more| things we can' do together.| \sharpword{Good}-bye!”
 \halfone He shook Parish’s hand| warmly:' a good, firm,| honest hand it seemed.‖ He| turned and' looked| back for' a| moment.
 \halftwo The blossom on the| Great Tree was' shining| like flame.‖ All the birds were flying in the air and singing.| Then he smiled,' and nodded to Parish,| and went off' with the| \sharpword{shepherd}.
 \end{itemize}
