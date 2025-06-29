@@ -282,7 +282,7 @@ There was a silence. Then the First Voice spoke to Niggle, quite close. “You h
 There was another silence. Niggle heard the Voices receding. “Well, I agree,” he heard the First Voice say in the distance. “Let him go on to the next stage. Tomorrow, if you like.”
 
 \chant{Leaf-Prince-crop.pdf}
-\pagebreak
+\onlyscore{\pagebreak}
 
 \section*{Transition from Purgatorial to Pastoral}
 
@@ -336,7 +336,7 @@ He went on looking at the Tree. All the leaves he had ever laboured at were ther
 
 Niggle walked about, but he was not merely pottering. He was looking round carefully. The Tree was finished, though not finished with—”Just the other way about to what it used to be,” he thought—but in the Forest there were a number of inconclusive regions, that still needed work and thought. Nothing needed altering any longer, nothing was wrong, as far as it had gone, but it needed continuing up to a definite point. Niggle saw the point precisely, in each case. He sat down under a very beautiful distant tree—a variation of the Great Tree, but quite individual, or it would be with a little more attention—and he considered where to begin work, and where to end it, and how much time was required. He could not quite work out his scheme.
 
-\bigskip
+\onlyscore{\bigskip}
 \chantnobreak{Leaf-Pastoral full-crop.pdf}
 
 \begin{itemize}
@@ -493,8 +493,7 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 
 “They both laughed. Laughed—the Mountains rang with it!”
 
-\bigskip
-\bigskip
+\onlyscore{\bigskip\bigskip}
 \chantnobreak{Niggle_ending-crop.pdf}
 
 % LocalWords:  Niggle’s
