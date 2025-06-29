@@ -493,4 +493,8 @@ That was probably the last time Niggle’s name ever came up in conversation. Ho
 
 “They both laughed. Laughed—the Mountains rang with it!”
 
+\bigskip
+\bigskip
+\chantnobreak{Niggle_ending-crop.pdf}
+
 % LocalWords:  Niggle’s
