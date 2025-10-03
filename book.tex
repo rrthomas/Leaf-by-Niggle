@@ -7,12 +7,17 @@
 \usepackage{fontspec,url,microtype}
 \usepackage[british]{babel}
 \usepackage{gitinfo2,xparse}
+\usepackage{fancyhdr}
 
 % Alter some default parameters for general typesetting
 
 \setmainfont{TeX Gyre Pagella}
 \frenchspacing
 \raggedbottom
+\pagestyle{fancy}
+\fancyhf{} % clear existing header/footer entries
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[LE,RO]{\thepage}
 
 % Avoid widows and orphans
 % https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
@@ -52,7 +57,11 @@
 \renewcommand{\item}{}
 \RenewDocumentCommand \section {s m}{}
 \RenewDocumentCommand \subsection {s m}{}
+\thispagestyle{empty}
+\cleardoublepage
 
+\setcounter{page}{1}
+\chapter*{}
 \input{niggle.tex}
 
 \end{document}
