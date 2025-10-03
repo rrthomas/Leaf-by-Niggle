@@ -2,7 +2,8 @@
 % Typeset by Reuben Thomas 24th February 2022
 %
 
-\documentclass{scrartcl}
+\documentclass{scrbook}
+\usepackage[pagestyleset=standard]{scrlayer-scrpage}
 \usepackage{fontspec,url,microtype}
 \usepackage[british]{babel}
 \usepackage{gitinfo2,xparse,graphicx,circledsteps,mathtools}
@@ -10,9 +11,11 @@
 
 % Alter some default parameters for general typesetting
 
+\pagestyle{scrheadings}
 \setmainfont{TeX Gyre Pagella}
 \setsansfont{Lato}
 \frenchspacing
+\raggedbottom
 
 % Avoid widows and orphans
 % https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
@@ -46,8 +49,12 @@
 
 \begin{document}
 
+\frontmatter
+\date{Git commit \gitFirstTagDescribe}
 \input{title.tex}
+\cleardoublepage
 
+\mainmatter
 \input{niggle.tex}
 
 \end{document}
