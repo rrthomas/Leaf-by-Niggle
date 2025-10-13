@@ -1,7 +1,7 @@
-#!/bin/sh
+#!/usr/bin/env ysh
 # Reprocess the chants and update the score
-cp ~/Dropbox/Niggle/Leaf-*.mscz .
-for i in $(git diff --name-only "*.mscz"); do
+# cp ~/Dropbox/Niggle/Leaf-*.mscz .
+for i in @(git diff --name-only "*.mscz"); do
     ./crop-musescore "$i"
 done
 latexmk score.tex
